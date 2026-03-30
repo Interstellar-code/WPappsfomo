@@ -1,0 +1,360 @@
+
+---Downloaded files---
+The import files for: ReDeal were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = https://new.re-views.tech
+Data file = /home/reviewadmin/domains/new.re-views.tech/public_html/wp-content/uploads/2020/06/demo-content-import-file_2020-06-07__19-55-44.xml
+Widget file = /home/reviewadmin/domains/new.re-views.tech/public_html/wp-content/uploads/2020/06/demo-widgets-import-file_2020-06-07__19-55-44.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+[ERROR] Failed to import "coinalpha" (Media)
+[ERROR] Failed to import "coins" (Media)
+[ERROR] Failed to import "rbd1" (Media)
+[ERROR] Failed to import "rbd2" (Media)
+[ERROR] Failed to import "rbd3" (Media)
+[ERROR] Failed to import "rbd4" (Media)
+[ERROR] Failed to import "rbd5" (Media)
+[ERROR] Failed to import "rbd6" (Media)
+[ERROR] Failed to import "rbd7" (Media)
+[ERROR] Failed to import "rbd8" (Media)
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your updates": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your comments": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in a status update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in an update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Activate your account": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New friendship request from {{initiator.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{friend.name}} accepted your friendship request": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Group details updated": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have an invitation to the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have been promoted in the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group: {{group.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New message from {{sender.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Verify your new email address": Invalid post type bp-email
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+[ERROR] Failed to import "coinalpha" (Media)
+[ERROR] Failed to import "coins" (Media)
+[ERROR] Failed to import "rbd1" (Media)
+[ERROR] Failed to import "rbd2" (Media)
+[ERROR] Failed to import "rbd3" (Media)
+[ERROR] Failed to import "rbd4" (Media)
+[ERROR] Failed to import "rbd5" (Media)
+[ERROR] Failed to import "rbd6" (Media)
+[ERROR] Failed to import "rbd7" (Media)
+[ERROR] Failed to import "rbd8" (Media)
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your updates": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your comments": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in a status update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in an update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Activate your account": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New friendship request from {{initiator.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{friend.name}} accepted your friendship request": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Group details updated": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have an invitation to the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have been promoted in the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group: {{group.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New message from {{sender.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Verify your new email address": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" accepted": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" rejected": Invalid post type bp-email
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+[ERROR] Failed to import "coinalpha" (Media)
+[ERROR] Failed to import "coins" (Media)
+[ERROR] Failed to import "rbd1" (Media)
+[ERROR] Failed to import "rbd2" (Media)
+[ERROR] Failed to import "rbd3" (Media)
+[ERROR] Failed to import "rbd4" (Media)
+[ERROR] Failed to import "rbd5" (Media)
+[ERROR] Failed to import "rbd6" (Media)
+[ERROR] Failed to import "rbd7" (Media)
+[ERROR] Failed to import "rbd8" (Media)
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your updates": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your comments": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in a status update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in an update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Activate your account": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New friendship request from {{initiator.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{friend.name}} accepted your friendship request": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Group details updated": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have an invitation to the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have been promoted in the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group: {{group.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New message from {{sender.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Verify your new email address": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" accepted": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" rejected": Invalid post type bp-email
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+[ERROR] Failed to import "coinalpha" (Media)
+[ERROR] Failed to import "coins" (Media)
+[ERROR] Failed to import "rbd1" (Media)
+[ERROR] Failed to import "rbd2" (Media)
+[ERROR] Failed to import "rbd3" (Media)
+[ERROR] Failed to import "rbd4" (Media)
+[ERROR] Failed to import "rbd5" (Media)
+[ERROR] Failed to import "rbd6" (Media)
+[ERROR] Failed to import "rbd7" (Media)
+[ERROR] Failed to import "rbd8" (Media)
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your updates": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your comments": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in a status update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in an update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Activate your account": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New friendship request from {{initiator.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{friend.name}} accepted your friendship request": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Group details updated": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have an invitation to the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have been promoted in the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group: {{group.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New message from {{sender.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Verify your new email address": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" accepted": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" rejected": Invalid post type bp-email
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+[ERROR] Failed to import "coinalpha" (Media)
+[ERROR] Failed to import "coins" (Media)
+[ERROR] Failed to import "rbd1" (Media)
+[ERROR] Failed to import "rbd2" (Media)
+[ERROR] Failed to import "rbd3" (Media)
+[ERROR] Failed to import "rbd4" (Media)
+[ERROR] Failed to import "rbd5" (Media)
+[ERROR] Failed to import "rbd6" (Media)
+[ERROR] Failed to import "rbd7" (Media)
+[ERROR] Failed to import "rbd8" (Media)
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your updates": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your comments": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in a status update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in an update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Activate your account": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New friendship request from {{initiator.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{friend.name}} accepted your friendship request": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Group details updated": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have an invitation to the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have been promoted in the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group: {{group.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New message from {{sender.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Verify your new email address": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" accepted": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" rejected": Invalid post type bp-email
+
+
+---Importing widgets---
+Sidebar Area : 
+
+ReHub: Ajax Tabs - No Title - Imported
+Text - No Title - Imported
+
+Footer 1 : 
+
+Text - About Rehub - Imported
+ReHub: Social icons - No Title - Imported
+
+Footer 2 : 
+
+Text - No Title - Imported
+
+Footer 3 : 
+
+Text - No Title - Imported
+
+Custom sidebar area : 
+
+Custom HTML - No Title - Imported
+Text - No Title - Imported
+
+Affiliate store archive sidebar : 
+
+Custom HTML - Other shops - Imported
+
+
+
+---pt-ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------RH Frontend forms was added-------Menu was assigned-------HomePage was assigned-------

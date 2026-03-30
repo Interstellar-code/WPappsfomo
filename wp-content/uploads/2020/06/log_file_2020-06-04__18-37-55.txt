@@ -1,0 +1,142 @@
+
+---Downloaded files---
+The import files for: ReWise were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://new.re-views.tech
+Data file = /home/reviewadmin/domains/new.re-views.tech/public_html/wp-content/uploads/2020/06/demo-content-import-file_2020-06-04__18-37-55.xml
+Widget file = /home/reviewadmin/domains/new.re-views.tech/public_html/wp-content/uploads/2020/06/demo-widgets-import-file_2020-06-04__18-37-55.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---Importing widgets---
+Sidebar Area : 
+
+ReHub: Top Offers/Products - Latest Coupons - Imported
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Text - About Rewise - Imported
+ReHub: Social icons - No Title - Widget already exists
+
+Footer 2 : 
+
+Text - No Title - Imported
+
+Footer 3 : 
+
+Text - Sign Up for Weekly Newsletter - Imported
+
+Custom sidebar area : 
+
+Custom HTML - Similar shops - Imported
+Text - No Title - Imported
+
+Custom sidebar area 2 : 
+
+Text - Sign Up for Weekly Newsletter - Imported
+
+Woocommerce shop sidebar : 
+
+Filter Products by Price - Filter Products - Imported
+Filter Products by Attribute - Effective Pixels (MP) - Imported
+Filter Products by Attribute - Image Sensor Size - Imported
+Filter Products by Attribute - Internal Storage (GB) - Imported
+Filter Products by Attribute - ISO Rating - Imported
+Filter Products by Attribute - Primary Camera - Imported
+Filter Products by Attribute - Shutter Speed - Imported
+Filter Products by Attribute - SIM Type - Imported
+Filter Products by Attribute - Video Resolution - Imported
+Filter Products by Rating - Average rating - Imported
+
+Woocommerce product sidebar : 
+
+CE: Price Movers - Price Drops - Imported
+
+
+
+---pt-ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------Menu was assigned-------HomePage was assigned-------
