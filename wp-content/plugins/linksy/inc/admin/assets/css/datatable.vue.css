@@ -1,0 +1,68 @@
+.linksy-datatable {
+    position: relative;
+}
+
+.linksy-datatable .loader {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    position: absolute;
+    top: 20px;
+    left: calc(50% - 18px);
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(167, 165, 165, 0.55);
+}
+
+.linksy-datatable>.table table td {
+    line-height: 26px;
+    border-bottom: 1px solid #E2E1E1;
+}
+
+.linksy-datatable table thead, .linksy-datatable table tbody {
+    position: relative;
+}
+
+.linksy-datatable table thead td {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px;
+    white-space: nowrap;
+    background-color: #FFFFFF;
+}
+
+.linksy-datatable table thead td.sortable {
+    padding-left: 15px;
+}
+
+.linksy-datatable table thead td>div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linksy-datatable table thead td>div .sortable-container {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.linksy-datatable table thead td>div .sortable-container i {
+    display: block;
+    color: #cecece;
+    line-height: 1px;
+}
+
+.linksy-datatable table thead td>div .sortable-container i.active {
+    color: #000000;
+}
+
+.linksy-datatable table tbody td {
+    font-weight: 600;
+    font-size: 18px;
+    padding: 20px;
+    vertical-align: text-top;
+}
+
+.linksy-datatable table tbody td.sortable {
+    padding-left: 15px;
+    padding-right: 30px;
+}

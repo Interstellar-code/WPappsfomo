@@ -1,0 +1,374 @@
+mark {
+    display: inline-block;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.back-button {
+    padding: 12px 16px;
+    font-size: 16px;
+    border: none;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+}
+
+.table-summary {
+    padding: 10px;
+    max-width: 350px;
+    margin-bottom: 20px;
+    background-color: #FFFFFF;
+    border-radius: 7px;
+}
+
+.table-summary>div {
+    position: relative;
+    border-radius: 2px;
+    border: 1px solid #dcdcde;
+}
+
+.table-summary>div span{
+    padding: 10px;
+    font-size: 17px;
+    line-height: 22px;
+    font-weight: 500;
+    overflow: hidden;
+    display: inline-block;
+    text-decoration: none;
+    color: #000000;
+    width: calc(100% - 20px);
+}
+
+.table-summary>div .actions {
+    left: calc(50% - 77px);
+    bottom: -15px;
+    display: none;
+    min-width: 102px;
+    position: absolute;
+    background: whitesmoke;
+    justify-content: space-between;
+}
+
+.table-summary>div:hover .actions {
+    display: flex;
+}
+
+.table-summary>div .actions a,
+.table-summary>div .actions button {
+    padding: 8px 10px;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #000000;
+}
+
+.table-summary>div .actions a:hover,
+.table-summary>div .actions button:hover {
+    color: #135e96;
+}
+
+.table-summary table {
+    margin: 0px;
+}
+
+.table-summary table tr td {
+    font-size: 17px;
+    line-height: 29px;
+    padding: 10px 5px;
+    text-align: center;
+    border-bottom: 1px solid #E2E1E1;
+}
+
+.table-summary table tr:last-child td {
+    border-bottom: none;
+}
+
+.search {
+    display: flex;
+    margin-top: 30px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    align-items: center;
+    background-color: #E3E3E3;
+    justify-content: space-between;
+}
+
+.search .actions {
+    white-space: nowrap;
+}
+
+.search .actions button {
+    font-size: 16px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: none;
+    margin: 0 10px;
+    height: 40px;
+    display: inline-block;
+}
+
+.suggestions {
+    display: flex;
+    margin-top: 30px;
+    margin-left: -15px;
+    margin-right: -15px;
+    justify-content: space-between;
+}
+
+.suggestions>div {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.suggestions .suggestions-summary {
+    min-width: 250px;
+    padding: 15px 25px;
+    border-radius: 7px;
+    height: fit-content;
+    background: #FFFFFF;
+}
+
+.suggestions .suggestions-summary h5 {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.suggestions .suggestions-summary ul {
+    padding: 0;
+}
+
+.suggestions .suggestions-summary ul li {
+    display: flex;
+    padding: 8px 0;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ECECEC;
+}
+
+.suggestions .suggestions-summary ul li:last-child {
+    border: none;
+}
+
+.suggestions .suggestions-summary ul li .cube{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    border-radius: 2px;
+    background: #F1F1F1;
+    display: inline-block;
+}
+
+.suggestions .suggestions-summary ul li span{
+    font-size: 16px;
+}
+
+.suggestions .suggestions-selector {
+    flex: 1;
+    padding: 30px;
+    position: relative;
+    padding-bottom: 15px;
+    border-radius: 7px;
+    background: #FFFFFF;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-loader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-empty {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta span {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta button {
+    padding: 6px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background: #F1F0F0;;
+    border: 1px solid #E2E1E1;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta button i,
+.suggestions .suggestions-selector .suggestions-selector-meta button span {
+    font-size: 17px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta button span {
+    font-weight: 500;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta button.active {
+    background: #EBEBEB;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta button.active i {
+    color: #2794EB;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta .suggestions-selector-meta-apply button {
+    border-radius: 5px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta .suggestions-selector-meta-pagination {
+    display: flex;
+    align-items: center;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta .suggestions-selector-meta-pagination div {
+    margin-left: 25px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-meta .suggestions-selector-meta-pagination div button {
+    background: transparent;
+    border-color: transparent;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display {
+    position: relative;
+    margin-top: 10px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display.list {
+    max-height: 435px;
+    overflow-y: scroll;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div {
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #E2E1E1;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div.active {
+    border-color: #E2E1E2;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display.grid > div {
+    display: none;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display.grid > div.active {
+    display: block;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-header {
+    padding: 18px 30px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    background: #F1F0F0;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-header h2 {
+    margin-top: 0;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-header h5 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-header button {
+    padding: 5px;
+    font-size: 21px;
+    border: transparent;
+    background-color: transparent;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-header .linksy-dropdown-items-container {
+    overflow-y: hidden;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-header .linksy-dropdown-items-container a,
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-header .linksy-dropdown-items-container button {
+    font-size: 14px;
+    color: #000000;
+    padding: 4px 8px;
+    text-decoration: none;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-items {
+    position: relative;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display.grid > div .suggestion-items {
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display.list > div .suggestion-items.expanded > div {
+    display: flex !important;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-items > div {
+    display: flex;
+    padding: 15px 30px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display.list > div .suggestion-items > div:not(:first-child) {
+    display: none;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-items h5 {
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    line-height: 30px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display > div .suggestion-items .suggestions-selector-score {
+    display: flex;
+    width: 31px;
+    height: 31px;
+    color: #FFFFFF;
+    border-radius: 50%;
+    background: #F1F1F1;
+    align-items: center;
+    justify-content: center;
+    margin-left: 45px;
+    font-size: 16px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display.list > div .suggestion-items .suggestions-selector-score {
+    margin-right: 45px;
+}
+
+.suggestions .suggestions-selector .suggestions-selector-display.list > div .suggestion-items button {
+    right: 30px;
+    padding: 6px;
+    border: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: absolute;
+    background: transparent;
+}

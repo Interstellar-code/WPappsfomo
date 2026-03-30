@@ -1,0 +1,261 @@
+#wpwrap {
+    background-color: #f1f1f1;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {  
+   opacity: 1;
+}
+
+.search {
+    display: flex;
+    padding: 10px 25px;
+    border-radius: 2px;
+    align-items: center;
+    background-color: #E3E3E3;
+    justify-content: space-between;
+}
+
+.search .actions {
+    white-space: nowrap;
+}
+
+.search .actions button {
+    font-size: 16px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: none;
+    margin: 0 10px;
+    height: 40px;
+    display: inline-block;
+}
+
+.search .actions button:disabled {
+    opacity: .7;
+}
+
+
+.filters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.filters>div{
+    display: flex;
+    margin-left: 10px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.filters>div:first-child{
+    margin-left: 0px;
+}
+
+.filters>div span {
+    font-size: 16px;
+    padding-bottom: 12px;
+}
+
+.filters>div select,
+.filters>div input,
+.filters>div button,
+.filters>div .custom {
+    height: 44px;
+    border: none;
+    min-width: 70px;
+    max-width: 125px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+}
+
+.filters>div select {
+    text-transform: capitalize;
+}
+
+.filters>div .linksy-dropdown {
+    height: 44px;
+    min-width: 92px !important;
+    background-color: #FFFFFF;
+}
+
+.filters>div.rating .linksy-dropdown {
+    min-width: 120px !important;
+}
+
+
+.filters>div select.invalid,
+.filters>div input.invalid {
+    background-color: rgba(255, 0, 0, .2);
+}
+
+.filters>div input:focus {
+    box-shadow: none;
+}
+
+.filters>div button {
+    white-space: nowrap;
+}
+
+.filters>div .custom{
+    height: 42px;
+    display: flex;
+    padding: 0 10px;
+    border: 1px solid transparent;
+    justify-content: space-between;
+}
+
+.filters>div .custom.invalid {
+    border-color: red;
+}
+
+.filters>div .custom input{
+    height: auto;
+    min-width: 20px;
+    max-width: 50px;
+    padding: 8px 0;
+}
+
+
+
+thead td {
+    background: #F9F9F9!important;
+}
+
+thead td:last-child div {
+    display: block;
+    text-align: center;
+}
+
+.linksy-datatable table tbody td {
+    background: #FFFFFF;
+    vertical-align: middle;
+}
+
+.linksy-datatable table tbody td:last-child {
+    width: 55%;
+    max-width: 750px;
+}
+
+.occurrences-column {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.occurrences-column .expander {
+    width: 35px;
+    border: none;
+    color: #828080;
+    margin-left: 15px;
+    background: transparent;
+}
+.occurrences-column .expander:disabled {
+    opacity: .3;
+}
+
+.occurrences-column .occurrence {
+    width: 100%;
+    display: none;
+    margin-bottom: 10px;
+    position: relative;
+}
+.occurrences-column .expanded .occurrence,
+.occurrences-column .occurrence:first-child {
+    display: block !important;
+}
+
+.occurrences-column .occurrence>div {
+    padding: 10px 20px;
+    padding-right: 10px;
+    background: rgba(246, 245, 245, 0.5);
+    border: 1px solid #E8E8E8;
+    border-radius: 7px;
+}
+
+.occurrences-column .occurrence .title {
+    display: flex;
+    align-items: center;
+    white-space: break-spaces;
+    justify-content: space-between;
+}
+
+.occurrences-column .occurrence .title .score {
+    width: 34px;
+    height: 34px;
+    margin-left: 20px;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.occurrences-column .occurrence .title .meta {
+    bottom: calc(100% - 77px);
+    display: none;
+    padding: 4px 11px;
+    position: absolute;
+    background-color: #E8E8E8;
+    border-radius: 4px;
+}
+
+.occurrences-column .occurrence .title>h5:hover .meta {
+    display: flex;
+}
+
+
+.occurrences-column .occurrence .title .meta a {
+    text-decoration: none;
+}
+
+.occurrences-column .occurrence .title .meta a:not(:hover) {
+    color: #000000;
+}
+
+.occurrences-column .occurrence .sources>h5 {
+    margin: 0;
+    width: fit-content;
+    font-size: 13px;
+    color: #007AFF;
+    padding: 3px 11px;
+    border-radius: 30px;
+    background: rgba(0, 122, 255, 0.1);
+}
+
+.occurrences-column .occurrence .sources>span {
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 0;
+    display: block;
+    border-bottom: 1px solid #F0F0F0;
+}
+.occurrences-column .occurrence .sources>span:last-child {
+    border-bottom: none;
+}
+.occurrences-column .occurrence .sources>span:hover {
+    color: rgb(0, 122, 255);
+}
+
+.occurrences-column .occurrence .sources>span .linksy-dropdown .linksy-dropdown-input {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 14px;
+}
+
+.occurrences-column .occurrence .sources>span .linksy-dropdown .linksy-dropdown-items-container {
+    top: 0;
+    right: 15px;
+    left: auto;
+    overflow-y: hidden;
+}
+
+.occurrences-column .occurrence .sources>span .linksy-dropdown .linksy-dropdown-items-container a {
+    text-decoration: none;
+}

@@ -1,0 +1,128 @@
+mark {
+    background: none;
+    border-bottom: 2px solid mark;
+}
+
+.linksy-phrase-summary {
+    top:0;
+    z-index: 1;
+    width: 235px;
+    min-height: 120px;
+    height: auto;
+    padding: 10px 13px;
+    margin-top: 0px;
+    border-radius: 10px;
+    position: absolute;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 24px rgba(12, 12, 12, 0.2);
+}
+
+.linksy-phrase-summary button {
+    display: block;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 8px 8px 8px 0;
+    color: rgba(0,0,0, .4);
+    background-color: transparent;
+}
+
+.linksy-phrase-summary button:hover{
+    color: #2271b1;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+}
+
+.linksy-phrase-summary .linksy-phrase-summary-header {
+    display: flex;
+}
+
+.linksy-phrase-summary .linksy-phrase-summary-header h5 {
+    cursor: pointer;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #000000;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    margin-bottom: 15px;
+}
+
+.linksy-phrase-summary .linksy-phrase-summary-footer {
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+}
+
+.linksy-phrase-summary .linksy-phrase-summary-footer .linksy-phrase-summary-position {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: 600;
+    color: #000000;
+    background: #FFFFFF;
+    border: 2px solid #2794EB;
+}
+
+.linksy-phrase-summary-container.positioned .linksy-phrase-summary-position {
+    display: flex;
+}
+
+/* progress bar */
+.circle-wrap {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #D9E0E2;
+    flex-shrink: 0;
+    z-index: 1;
+}
+
+.linksy-phrase-summary-container.positioned .circle-wrap {
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+.circle-wrap .circle .mask,
+.circle-wrap .circle .fill {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    border-radius: 50%;
+}
+  
+.circle-wrap .circle .mask {
+    clip: rect(0px, 50px, 50px, 25px);
+}
+  
+.circle-wrap .inside-circle {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: #FFFFFF;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 3px;
+    margin-left: 3px;
+    position: absolute;
+    z-index: 100;
+    font-weight: 600;
+    font-size: 12px;
+}
+ 
+/* 3rd progress bar */
+.mask .fill {
+    clip: rect(0px, 25px, 50px, 0px);
+}
+  
+.mask.full,
+.circle .fill {
+    transform: rotate(90deg);
+}

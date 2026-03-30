@@ -1,0 +1,41 @@
+# Sensitive / credentials
+wp-config.php
+
+# Database backup (too large + sensitive)
+*.sql
+
+# Large backup files
+*.wpress
+wp-content/ai1wm-backups/
+
+# Exclude all uploads by default, only allow specific folders
+wp-content/uploads/
+!wp-content/uploads/2019/11/
+!wp-content/uploads/2020/06/
+!wp-content/uploads/2020/07/
+!wp-content/uploads/2020/09/
+!wp-content/uploads/2020/10/
+!wp-content/uploads/2021/04/
+!wp-content/uploads/2021/06/
+!wp-content/uploads/2021/08/
+!wp-content/uploads/2021/10/
+!wp-content/uploads/2021/11/
+!wp-content/uploads/2021/12/
+!wp-content/uploads/2022/01/
+!wp-content/uploads/2022/03/
+!wp-content/uploads/2022/04/
+!wp-content/uploads/2022/07/
+!wp-content/uploads/2022/08/
+!wp-content/uploads/2022/10/
+!wp-content/uploads/2022/11/
+!wp-content/uploads/2022/12/
+!wp-content/uploads/2023/01/
+!wp-content/uploads/2023/02/
+!wp-content/uploads/2023/04/
+!wp-content/uploads/2023/07/
+
+# IDE and system files
+.claude/
+.idea/
+.vscode/
+*.log

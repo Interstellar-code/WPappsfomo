@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "dependencies": {
+    "@wordpress/scripts": "^31.1.0"
+  }
+}

@@ -1,0 +1,251 @@
+#adminmenumain {
+    display: none;
+}
+
+#wpcontent {
+    margin-left: 0;
+}
+
+.container {
+    padding: 0;
+    display: flex;
+    height: 502px;
+    margin-top: 50px;
+    background-color: #fff;
+    max-width: 720px !important;
+}
+
+.container .info {
+    width: 325px;
+    display: flex;
+    padding: 25px;
+    align-items: center;
+    justify-content: center;
+    background: #007AFF;
+    border-radius: 22px 0px 0px 22px;
+}
+
+.container .content{
+    flex: 1;
+    display: flex;
+    padding: 35px;
+    max-width: 395px;
+    padding-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container .content::before {
+    content: "";
+    top: 20px;
+    left: 15px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #007AFF;
+}
+
+.container .content::after {
+    content: "";
+    right: 15px;
+    width: 15px;
+    bottom: 20px;
+    height: 15px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #FFC73F;
+}
+
+.container .content .setup-nav {
+    display: flex;
+    align-items: center;
+    padding-bottom: 45px;
+}
+
+.container .content .setup-nav>div {
+    width: 9px;
+    height: 9px;
+    margin: 0 3px;
+    border-radius: 50%;
+    background-color: rgba(0, 122, 255, 0.2);
+}
+
+.container .content .setup-nav>div.active {
+    background-color: #007AFF;
+}
+
+.container .content p {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #1B1633;
+}
+
+.container .content .card  {
+    border: none;
+    min-width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.container .content .card .card-body {
+    width: 100%;
+}
+
+.container .content .card-icon {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    padding: 2px;
+    color: #FFFFFF;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    background-color: #2794EB;
+}
+
+.container .content .title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.container .content .title h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.container .content .title span {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #828080;
+}
+
+.container .content input {
+    min-height: 25px;
+    border: 1px solid #E2E4E5;
+    border-radius: 15px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    min-width: 100%;
+}
+
+.container .content button {
+    z-index: 1;
+    width: 100%;
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: 15px;
+    padding: 5px 15px;
+    border-radius: 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+.container .content button:hover {
+    color: #828080;
+    background: rgba(0, 122, 255, 0.2);
+}
+
+button[disabled],
+.container .content button:disabled {
+    color: #828080;
+    background: rgba(0, 122, 255, 0.2);
+    border: 1px solid rgba(0, 122, 255, 0.2);
+}
+
+.container .content button.loading {
+    color: #FFFFFF;
+    border-color: rgba(0, 122, 255, 0.2);
+}
+.container .content button.loading,
+.container .content button.loading:hover {
+    background: rgba(0, 122, 255, 0.2) !important;
+}
+
+.container .content button.loading>div {
+    top: 0;
+    left: 0;
+    z-index: -1;
+    height: 100%;
+    position: absolute;
+    border-radius: 15px;
+    background: #007AFF;
+}
+
+
+
+/* progress bar */
+.circle-wrap-container {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle-wrap {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: #D9E0E2;
+    flex-shrink: 0;
+    z-index: 1;
+}
+
+.circle-wrap .circle .mask,
+.circle-wrap .circle .fill {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border-radius: 50%;
+}
+  
+.circle-wrap .circle .mask {
+    clip: rect(0px, 70px, 70px, 35px);
+}
+  
+.circle-wrap .inside-circle {
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background: #FFFFFF;
+    line-height: 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+    position: absolute;
+    z-index: 100;
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ 
+/* 3rd progress bar */
+.mask .fill {
+    clip: rect(0px, 35px, 70px, 0px);
+    background-color: #007AFF;
+}
+  
+.mask.full,
+.circle .fill {
+    transform: rotate(90deg);
+}

@@ -1,0 +1,331 @@
+== Changelog ==
+
+= 1.3.6 =
+- Improved: Security
+
+= 1.3.5 =
+- Added: Option to allow share all popup on custom buttons.
+- Fixed: Oversized X (Twitter) logo.
+- Improved: Security
+- Improved: PHP Compatibility
+
+= 1.3.4 =
+- Updated: X (Twitter) logo.
+
+= 1.3.3 =
+- Fixed: Custom style not working.
+
+= 1.3.2 =
+- Improved: Security.
+
+= 1.3.1 =
+- Added: Translation option for follow links.
+- Added: Compatibility with Bricks Builder.
+- Fixed: On media buttons break image height.
+- Fixed: Share hub custom colors not working.
+- Fixed: "Powered By" link was enabled by default.
+
+= 1.3 =
+- Fixed: Custom query args not included in share link.
+- Fixed: On media buttons add white space below image.
+- Fixed: Error class not found 'SocialSnap_Admin_Page'.
+- Fixed: Twitter share popup height.
+- Fixed: Parler not sharing URL.
+- Fixed: Conflict with Yoast SEO - custom colors not working.
+
+= 1.2 =
+- Fixed: CLS issue with on media buttons.
+- Fixed: Share Buttons - Reveal on hover animation not working.
+- Fixed: Share Buttons - Custom colors not working on sticky bar and hub.
+- Fixed: Floating bar not displaying when enabled.
+- Fixed: Hidden Pin images showing on archive pages.
+
+= 1.1.21 =
+- Fixed: Custom colors for share buttons not working.
+
+= 1.1.20 =
+- Fixed: Showing HTML in footer.
+- Fixed: Widgets styling not working.
+
+= 1.1.19 =
+- Fixed: Showing HTML in footer.
+
+= 1.1.18 =
+- Added: Line share and follow network.
+- Added: Share Text option for Share Button Block.
+- Added: Filter for All Networks popup.
+- Fixed: Assets loading on pages not using Social Snap.
+
+= 1.1.17 =
+- Fixed: Cookies do not contain the "secure" attribute.
+- Fixed: Posts Widget not saving changes.
+- Fixed: Compatibility with "Before After Image Slider & Gallery" plugin.
+- Fixed: Attachments not saving custom Social Snap settings.
+
+= 1.1.16 =
+- Fixed: On media buttons bug on lazy loaded images.
+- Fixed: Statistics wrong data for On Media location.
+- Fixed: Custom Pinterest title & description bug.
+- Fixed: Bitly generating shortlinks for preview pages.
+- Fixed: jQuery deprecated error.
+- Fixed: Follow networks not updating username and link.
+
+= 1.1.15 =
+- Fixed: Google Analytics click tracking.
+- Fixed: Compatibility issue - data attributes stripped.
+- Improved: Click to Tweet shortcode allows HTML tags.
+- Improved: Copy button auto-selecting the link.
+
+= 1.1.14 =
+- Added: Parler share and follow network.
+- Added: MeWe share and follow network.
+- Updated: Facebook and Linkedin branding - updated icons and colors to match the branding guides.
+- Fixed: Follower count for Twitch.
+- Fixed: Compatiblity with Twenty20 plugin.
+- Fixed: Empty ID attribute appearing in popup modal.
+- Fixed: Wrong Meta tags for site URL.
+- Fixed: Share buttons not displaying on selected custom post type.
+
+= 1.1.13 =
+- Fixed: Wrong og:url tag when using plain permalinks.
+- Fixed: Facebook Messenger not working.
+- Fixed: Sticky bar not displaying.
+- Fixed: HTML Error Duplicate ID: "ss-close-share-networks-modal".
+
+= 1.1.12 =
+- Added: Disconnect Facebook Authorization for social share provider.
+- Fixed: Share counts not incrementing.
+- Fixed: Copy button not working and not displaying properly.
+
+= 1.1.11 =
+- Added: TikTok follow icon.
+- Fixed: Viber and Facebook Messenger share links not working.
+- Fixed: Metabox fields not displaying properly.
+- Fixed: Settings panel not loading correctly.
+- Fixed: Design compatibility with WordPress 5.5.
+
+= 1.1.10 =
+- Added: Option to display share buttons on archive pages for custom post types.
+- Added: Reset share count flag.
+- Fixed: All networks button not working.
+- Fixed: Wrong link shared when using shortcodes.
+- Improved: Security.
+
+= 1.1.9 =
+- Added: Option to display share buttons on archive pages.
+- Added: Char count for custom Pinterest Description field.
+- Improved: Icons are displayed as an SVG instead of using font.
+- Improved: Compatibility with Oxygen page builder. 
+- Improved: Share & Follow count caching.
+- Fixed: Inline buttons on archive/posts page displaying wrong title & link.
+- Fixed: Inline buttons shortcode displaying on pages where buttons are disabled.
+- Fixed: API calls made to networks not used on a page.
+- Fixed: Click to Tweet block not displaying new lines.
+- Fixed: Copy button - custom share target not working.
+- Fixed: Follow buttons block displaying out of the container.
+- Fixed: Quick edit for disabling share buttons in conflict with Divi Builder.
+
+= 1.1.8.3 =
+- Added: Filter for "Powered by" link.
+- Added: Discord Follow network.
+- Improved: Bitly API upgraded to v4.
+- Improved: Share buttons shortcode can specify shared text.
+- Improved: PHP Compatibility.
+- Improved: Accessibility.
+- Fixed: WPML Translations not working.
+- Fixed: Missing ALT tag on images.
+- Fixed: Follow widget not working with some page builders.
+- Fixed: Bitly not working on Posts page.
+
+= 1.1.8.2 =
+- Fixed: Click to Tweet displays HTML tags.
+- Fixed: Floating Sidebar and Share Hub shares wrong page.
+- Fixed: Quick Edit option to disable sharing not working.
+- Improved: Accessibility.
+
+= 1.1.8.1 =
+- Fixed: Upload field in metabox not working.
+- Fixed: Quick Editor option to Disable share counts not working on pages.
+
+= 1.1.8 =
+- Added: Migration support: Social Pug - migrate settings and share counts.
+- Improved: Yoast SEO compatibility.
+- Improved: WooCommerce compatibility.
+- Improved: WordPress Multisite.
+- Improved: Print styles.
+- Improved: Accessibility.
+- Fixed: Revolution Slider compatibility.
+- Fixed: Share Hub custom colors.
+- Fixed: Click To Tweet formatting not working.
+- Fixed: Minor CSS issues.
+
+= 1.1.7.1 =
+- Fixed: OG Tags not working.
+
+= 1.1.7 =
+- Added: Shortcode for On Media share buttons.
+- Added: WPML configuration file.
+- Added: Option to disable share buttons in Quick Edit.
+- Fixed: Social Meta Tags not working on homepage.
+- Fixed: Social Meta Tags and Yoast SEO compatibility.
+- Fixed: Compatibility with WordPress 5.3
+- Fixed: UTM parameters from request URL removed.
+- Fixed: SMS & Viber buttons not working
+- Fixed: Sticky bar adds empty bar.
+
+= 1.1.6 =
+- Added: TwitCount Twitter share count provider.
+- Added: Migration support: MashShare - migrate settings and share counts.
+- Added: Option for Pinterest Browser Extension support.
+- Added: Filter to disable Statistics.
+- Fixed: Sticky bar overlapping content.
+- Fixed: Incorrect share counts on posts page.
+- Fixed: Email share button opens a blank window.
+- Fixed: Minor CSS issues.
+
+= 1.1.5.6 =
+- Fixed: Social Meta Tags duplicate tags.
+- Fixed: Custom CSS generated for unused elements.
+
+= 1.1.5.5 =
+- Added: Social Warfare Click to Tweet migration.
+- Fixed: On Media buttons bug with duplicate images.
+- Fixed: Sticky Bar display after scroll not working.
+
+= 1.1.5.4 =
+- Fixed: Shared URL has no custom parameters.
+- Fixed: Copy button bug.
+- Fixed: YouTube followers.
+
+= 1.1.5.3 =
+- Fixed: Pinterest shared image not working.
+
+= 1.1.5.2 =
+- Improved: Share count recovery.
+- Improved: Open Graph meta tags.
+- Fixed: Total Share count not displaying.
+- Fixed: Settings panel unresponsive.
+- Fixed: Click to Tweet not using shortened links.
+- Fixed: Multiple share pop-ups opening.
+
+= 1.1.5.1 =
+- Improved: Facebook Share counts.
+
+= 1.1.5 =
+- Added: Facebook Share provider option: Social Snap App, Facebook Graph, SharedCount.com.
+- Added: Patreon Follow network.
+- Added: Facebook Messenger for Desktop.
+- Improved: Share count recovery.
+- Improved: Caching and pageserformance enhancements.
+- Improved: CSS styling.
+- Improved: Social Meta Tags.
+- Fixed: Image duplicate appearing on AMP pages.
+- Fixed: Dismissed notices always visible.
+- Fixed: Share links appearing when disabled.
+- Removed: Google Plus share and follow network.
+
+= 1.1.4.1 =
+- Fixed: Facebook Share counts.
+
+= 1.1.4 =
+- Added: Floating Sidebar advanced positioning.
+- Fixed: Share count recovery bug with SSL.
+- Fixed: Bitly link shortener not generating links.
+- Improved: Share counts caching.
+
+= 1.1.3 =
+- Added: Migration support: Social Warfare - migrate share counts.
+- Added: Pinterest custom description for each image in media library.
+- Added: Pinterest image source option for on media location.
+- Added: Pinterest description source option for on media location.
+- Added: Option to hide pin button for each image in media library.
+- Added: Button to force refresh share counts in Social Settings » Social Sharing.
+- Fixed: Share count recovery.
+- Fixed: Total shares not updating.
+- Fixed: Minor CSS issues.
+- Improved: Security.
+- Removed: Notice about NewShareCounts.
+
+= 1.1.2 =
+- Added: Compatibility with AMP plugins.
+- Improved: SEO optimization.
+
+= 1.1.1 =
+- Added: Mix Share & Follow network.
+- Added: Custom Pinterest Description.
+- Added: Share Hub and Sticky bar options to display on posts page.
+- Added: Share Hub colors.
+- Added: Inline Buttons light color scheme for Label & Total Counter.
+- Added: Compatibility with WordPress 5.0.
+- Fixed: Compatibility with Gutenberg 4.4.0+.
+- Fixed: Conflict with Pinterest pinit.js script.
+- Fixed: Minor CSS issues.
+- Fixed: Click to Tweet default styles.
+- Fixed: On Media settings live preview.
+- Removed: Notice about Stumbleupon.
+
+= 1.1.0 =
+- Added: Automatic follower count: YouTube.
+- Added: Automatic follower count: LinkedIn.
+- Improved: Migration support: Social Warfare - migrate post meta.
+- Improved: SEO optimization.
+- Fixed: Share count not accurate on WooCommerce shop page.
+- Fixed: Social Meta Tags not accurate on shop page and static homepage.
+- Fixed: Compatibility with Yoast SEO plugin.
+
+= 1.0.9 =
+- Added: Social Sharing buttons for WooCommerce Shop page.
+- Added: Migration support: Social Warfare.
+- Added: Automatic follower count: Twitch.
+- Fixed: Minor PHP bugs.
+
+= 1.0.8 =
+- Fixed: Bitly URL shortening bug.
+- Fixed: Pinterest Pinit button bug.
+
+= 1.0.7 =
+- Improved: Plugin performance, faster loading time.
+
+= 1.0.6 =
+- Added: Flipboard Share & Follow network.
+- Improved: Translation/Localization files.
+- Improved: Metabox fields reorganization.
+- Improved: Notices system.
+- Improved: Addons page.
+- Fixed: Social Share Recovery bug.
+- Fixed: SMS Share for iOS.
+
+= 1.0.5 =
+- Added: Pinterest via @username.
+- Added: Custom Tweet option.
+- Added: Min share count for Sticky bar.
+- Added: Social Meta Tag supports videos.
+- Fixed: Pinterest and Tumblr share count bug.
+- Fixed: Conflict with Visual Composer Custom CSS.
+- Fixed: On Media style bug.
+- Fixed: Meta tags for homepage.
+- Fixed: Snapchat style.
+- Removed: Activation notice on License page.
+- Removed: StumbleUpon network.
+- Removed: NewShareCount Twitter share count provider.
+
+= 1.0.4 =
+- Fixed: CSS display issue with On Media Share buttons.
+
+= 1.0.3 =
+- Added: Custom Share Target URL option for share buttons.
+- Fixed: PHP 7 Compatibility.
+
+= 1.0.2 =
+- Fixed: Input fields trigger in metaboxes.
+
+= 1.0.1 =
+- Added: GDPR Compliance options.
+- Added: Placement option for total share count on inline share buttons.
+- Fixed: Compatibility issues with cache plugins.
+- Fixed: Minor CSS issues with Click to Tweet boxes.
+- Fixed: On Media styling issues.
+- Fixed: Gutenberg compatibility.
+
+= 1.0.0 =
+* Initial release.

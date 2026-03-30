@@ -1,0 +1,65 @@
+.linksy-toast-container {
+    right: 20px;
+    bottom: 20px;
+    position: fixed;
+}
+
+.linksy-toast {
+    display: flex;
+    width: 250px;
+    margin: 8px 0;
+    padding: 6px 8px;
+    border-radius: 4px;
+    position: relative;
+    padding-right: 20px;
+    align-items: center;
+    background-color: #fefefe;
+    border: 1px solid transparent;
+}
+
+.linksy-toast.toast-success {
+    color: #155724;
+    border-color: #c3e6cb;
+    background-color: #d4edda;
+}
+
+.linksy-toast.toast-error {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+.linksy-toast.toast-warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+.linksy-toast.toast-info {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+
+.linksy-toast .toast-icon {
+    font-size: 14px;
+    padding-left: 3px;
+    padding-right: 8px;
+}
+
+.linksy-toast .toast-text {
+    font-weight: 500;
+    font-size: 14px;
+    padding: 5px;
+    margin: 0;
+}
+
+.linksy-toast .close-btn {
+    top: 5px;
+    right: 5px;
+    padding: 5px;
+    border: none;
+    font-size: 12px;
+    position: absolute;
+    background: transparent;
+}

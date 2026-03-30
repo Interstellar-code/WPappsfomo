@@ -1,0 +1,357 @@
+#wpwrap {
+    background-color: #f1f1f1;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {  
+   opacity: 1;
+}
+
+.search {
+    display: flex;
+    padding: 10px 25px;
+    border-radius: 2px;
+    align-items: center;
+    background-color: #E3E3E3;
+    justify-content: space-between;
+}
+
+.search .actions {
+    white-space: nowrap;
+}
+
+.search .actions button {
+    font-size: 16px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: none;
+    margin: 0 10px;
+    height: 40px;
+    display: inline-block;
+}
+
+.search .actions button:disabled {
+    opacity: .7;
+}
+
+.search .actions .linksy-export button {
+    margin: 0;
+    font-size: 16px;
+    padding: 10px 0px;
+    border: none;
+    display: block;
+    background: transparent;
+}
+
+
+.filters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.filters>div{
+    display: flex;
+    margin-left: 10px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.filters>div:first-child{
+    margin-left: 0px;
+}
+
+.filters>div span {
+    font-size: 16px;
+    padding-bottom: 12px;
+}
+
+.filters>div select,
+.filters>div input,
+.filters>div button,
+.filters>div .custom {
+    height: 44px;
+    border: none;
+    min-width: 70px;
+    max-width: 125px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+}
+
+.filters>div select {
+    text-transform: capitalize;
+}
+
+.filters>div .linksy-dropdown {
+    min-width: 96px;
+    background-color: #FFFFFF;
+}
+
+.filters>div select.invalid,
+.filters>div input.invalid {
+    background-color: rgba(255, 0, 0, .2);
+}
+
+.filters>div input:focus {
+    box-shadow: none;
+}
+
+.filters>div button {
+    color: #FFFFFF;
+    padding: 8px 18px;
+    background: #007AFF;
+    white-space: nowrap;
+}
+
+.filters>div .custom{
+    height: 42px;
+    display: flex;
+    padding: 0 10px;
+    border: 1px solid transparent;
+    justify-content: space-between;
+}
+
+.filters>div .custom.invalid {
+    border-color: red;
+}
+
+.filters>div .custom input{
+    height: auto;
+    min-width: 25px;
+    max-width: 50px;
+    padding: 8px 0;
+}
+
+
+.linksy-datatable table thead td {
+    background: #F9F9F9!important;
+}
+
+.linksy-datatable table thead td:last-child .custom {
+    display: flex;
+    align-items: center;
+}
+
+.linksy-datatable table thead td:last-child .custom button {
+    border: none;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: transparent;
+}
+
+.linksy-datatable table thead td:last-child .custom button.active {
+    color: #007AFF;
+    border-radius: 4px;
+    background: rgba(0, 122, 255, 0.15);
+}
+
+.linksy-datatable table tbody td {
+    background: #FFFFFF;
+    vertical-align: middle;
+}
+
+.linksy-datatable table tbody td:last-child {
+    width: 650px;
+    max-width: 650px;
+}
+
+.page-title {
+    margin-bottom: 12px;
+}
+
+.page-title:hover {
+   margin-bottom: 0;
+}
+
+.page-title > div {
+    display: none;
+    padding-top: 5px;
+}
+
+.page-title:hover > div {
+    display: block;
+}
+
+.page-title > div a {
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.page-title > div a:not(:hover) {
+    color: #000000;
+}
+
+
+.keywords-column {
+    position: relative;
+}
+
+.keywords-column .keywords-column-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.keywords-column .expander {
+    opacity: 1;
+    width: 24px;
+    height: 24px;
+    border: none;
+    color: #828080;
+    margin-left: 15px;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.keywords-column .expander.active {
+    opacity: 1;
+}
+.keywords-column .expander.active:disabled {
+    opacity: .3;
+}
+
+.keywords-column .keywords-column-content .keywords-column-content-empty {
+    flex: 1;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.keywords-column .keywords-column-content .keywords-column-content-empty h4 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 8px 11px;
+    margin-right: 10px;
+    border-radius: 7px;
+    background: rgba(246, 245, 245, 0.5);
+    border: 1px solid #E8E8E8;
+}
+
+.keywords-column .keywords-column-content .keywords-column-content-empty button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border: none;
+    font-size: 12px;
+    color: #FFFFFF;
+    border-radius: 50%;
+    background-color: #007AFF;
+}
+
+.keywords-column .keywords-column-content .keywords-column-content-items {
+    flex: 1;
+    position: relative;
+}
+
+.keywords-column .keywords-column-content .keywords-column-content-items .add-keyword {
+    opacity: 1;
+    color: #007AFF;
+    position: absolute;
+    right: -38px;
+    top: 32px;
+}
+
+.keywords-column .keywords-column-content .keywords-column-content-items .keyword {
+    width: 100%;
+    display: none;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    padding-right: 10px;
+    background: rgba(246, 245, 245, 0.5);
+    border: 1px solid #E8E8E8;
+    border-radius: 7px;
+}
+.keywords-column .keywords-column-content .keywords-column-content-items.expanded .keyword,
+.keywords-column .keywords-column-content .keywords-column-content-items .keyword:first-child {
+    display: block !important;
+}
+
+.keywords-column .keywords-column-content .keywords-column-content-items .keyword > div {
+    display: flex;
+    align-items: center;
+    white-space: break-spaces;
+    justify-content: space-between;
+}
+
+.keywords-column .keywords-column-content .keywords-column-content-items .keyword > div .score {
+    width: 34px;
+    height: 34px;
+    margin-left: 20px;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+.keywords-column .keywords-column-content .keywords-column-content-items .keyword > div button {
+    border: none;
+    color: #FF0000;
+    background: transparent;
+    margin-left: 5px;
+    margin-right: -5px;
+}
+
+.keywords-column .keywords-column-form {
+    position: relative;
+    display: flex;
+}
+
+.keywords-column .keywords-column-form .close {
+    opacity: 1;
+    border: none;
+    background: transparent;
+}
+
+.keywords-column .keywords-column-form .keywords-column-form-content {
+    background: #F3F3F3;
+    border-radius: 4px;
+    padding: 10px 15px;
+    flex: 1;
+}
+
+.keywords-column .keywords-column-form .keywords-column-form-content .keywords-column-form-content-submit-btn {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.keywords-column .keywords-column-form .keywords-column-form-content > div .input-group {
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.keywords-column .keywords-column-form .keywords-column-form-content > div .input-group input {
+    background: #FFFFFF;
+    border-radius: 4px;
+    height: 40px;
+    border: none;
+    flex: 1;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.keywords-column .keywords-column-form .keywords-column-form-content > div .input-group button {
+    background: transparent;
+    border-radius:  50%;
+    width: 34px;
+    height: 34px;
+    border: none;
+    padding: 0;
+}

@@ -1,0 +1,24 @@
+.linksy-animation.fade-out-up {
+    animation-name: fadeOutUp;
+    animation-delay: .3s;
+    animation-duration: 1s;
+}
+
+.linksy-animation.blink {
+    animation-name: blink;
+    animation-delay: .3s;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes fadeOutUp {
+    0% { opacity: 1; transform: translateY(0%); }
+    100% { opacity: 0; transform: translateY(-50%); }
+}
+
+@keyframes blink {
+    50% {
+      opacity: 0;
+    }
+}

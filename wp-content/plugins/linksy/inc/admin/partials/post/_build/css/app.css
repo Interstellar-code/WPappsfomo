@@ -1,0 +1,504 @@
+.linksy-phrase-container {
+    overflow-x: hidden;
+}
+
+.linksy-phrase-container button.active {
+    color: #2271b1;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+}
+
+.linksy-phrase-container .loader {
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(255, 255, 255, .6);
+}
+
+.linksy-phrase-container .linksy-phrase-container-header button {
+    padding: 2px 8px;
+    margin-left: 5px;
+    font-size: 14px;
+}
+
+.linksy-phrase-container .linksy-phrase-container-header button.active  {
+    color: #007AFF;
+}
+
+.linksy-phrase-container .linksy-phrase-container-header .linksy-phrase-container-header-controler {
+    flex: 1;
+    margin-top: -15px;
+    margin-bottom: -15px;
+    color: rgba(0,0,0, .4);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.linksy-phrase-container .linksy-phrase-container-header .linksy-phrase-container-header-controler button {
+    margin-left: 0;
+}
+
+.linksy-phrase-container .linksy-phrase-container-header .linksy-phrase-container-header-meta {
+    margin-left: auto;
+}
+
+.linksy-phrase-container .linksy-phrase-container-alert {
+    padding: 5px 15px;
+    position: relative;
+    color: #856404;
+}
+
+.linksy-phrase-container .linksy-phrase-container-body {
+    max-width: 100%;
+    padding: 8px 3px 0px;
+    position: relative;
+}
+
+.linksy-phrase {
+    position: relative;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    background: #FFFFFF;
+    border: 1px solid #D9E0E2;
+    box-shadow: 6px 6px 12px rgba(12, 12, 12, 0.1);
+}
+
+.linksy-phrase > h4 {
+    display: flex;
+    font-size: 14px;
+    margin-top: 8px;
+    color: #000000;
+    font-weight: 500;
+    line-height: 21px;
+    margin-bottom: 9px;
+    padding-left: 15px;
+}
+
+.linksy-phrase-actions {
+    display: flex;
+    padding: 0 15px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.linksy-phrase-actions button {
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.linksy-phrase-actions button i {
+    padding-right: 8px;
+}
+
+/** linksy-phrase-home */
+.linksy-phrase-home {
+    position: relative;
+}
+
+.linksy-phrase-home > div:not(.linksy-phrase-actions){
+    max-height: 430px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding-bottom: 35px;
+}
+
+.linksy-phrase-home > .linksy-phrase-actions{
+    left: -12px;
+    right: -12px;
+    bottom: 0;
+    padding-top: 5px;
+    position: absolute;
+    background: -moz-linear-gradient(top,  rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+
+}
+
+.linksy-phrase-home .controllers {
+    display: flex;
+    margin-bottom: 6px;
+    justify-content: space-between;
+}
+
+.linksy-phrase-home .controllers .linksy-phrase {
+    margin: 0;
+    padding: 0;
+    flex-grow: 0;
+    display: flex;
+    flex-shrink: 0;
+    border-radius: 5px;
+    align-items: center;
+    width: calc(50% - 8px);
+    overflow: hidden;
+    justify-content: space-between;
+    transition: .2s all linear;
+}
+
+.linksy-phrase-home .controllers.controlled .linksy-phrase {
+    width: 38px;
+}
+
+.linksy-phrase-home .controllers .linksy-phrase.active {
+    width: calc(100% - 8px - 38px);
+}
+
+.linksy-phrase-home .controllers .linksy-phrase.search>i {
+    padding-right: 10px;
+    display: none;
+}
+
+.linksy-phrase-home .controllers .linksy-phrase.active.search>i {
+    display: inline-block;
+}
+
+.linksy-phrase-home .controllers .linksy-phrase .linksy-search {
+    min-width: auto;
+    width: calc(100% - 10px) !important;
+}
+
+.linksy-phrase-home .controllers .linksy-phrase .linksy-search i {
+    font-size: 14px !important;
+}
+
+.linksy-phrase-home .controllers .linksy-phrase .linksy-search input {
+    font-size: 13px !important;
+    padding-left: 10px !important;
+}
+
+.linksy-phrase-home .controllers .linksy-phrase .quick-apply span {
+    font-size: 13px !important;
+}
+
+.linksy-phrase-home .linksy-phrase-quick-apply {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.linksy-phrase-home .linksy-phrase-quick-apply-body {
+    padding: 5px 15px 10px;
+}
+
+.linksy-phrase-home .linksy-phrase-quick-apply-body input {
+    width: 100%;
+    height: 30px;
+    padding-right: 0;
+    border-radius: 4px;
+    border: 1px solid #D3D3D3;
+}
+
+.linksy-phrase-home .linksy-phrase-quick-apply-body button {
+    margin-left: 10px;
+}
+
+/** linksy-phrase-filters */
+.linksy-phrase-filters {
+    padding-bottom: 20px;
+}
+
+.linksy-phrase-filters-body {
+    padding: 20px 15px;
+}
+
+.linksy-phrase-filters-body > div {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linksy-phrase-filters-body > div button{
+    padding: 5px 11px;
+}
+
+.linksy-phrase-filters-body > div .linksy-dropdown {
+    max-height: 140px;
+}
+
+.linksy-phrase-filters-body > div .daterangepickerinput {
+    font-size: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.linksy-phrase-filters-body > div .linksy-dropdown-items-container {
+    right: 0;
+    left: auto !important;
+    max-width: 200px !important;
+    border: 1px solid #dcdcde;
+    max-height: 140px !important;
+}
+
+/** linksy-phrase-info */
+.linksy-phrase-info {
+    padding-bottom: 30px;
+}
+
+.linksy-phrase-info-body {
+    padding: 0px 15px 5px;
+}
+
+.linksy-phrase-info-body > table {
+    margin-bottom: 10px;
+}
+
+.linksy-phrase-info-body > table th {
+    padding: 20px 10px;
+}
+
+.linksy-phrase-info-body > table td {
+    padding: 20px 10px;
+    text-align: center;
+    border-top: 1px solid #ECECEC;
+}
+
+.linksy-phrase-info-body > div {
+    display: flex;
+    padding: 10px 12px;
+    border-radius: 5px;
+    align-items: center;
+    margin-bottom: 2px;
+    border: 1px solid #ECECEC;
+    justify-content: space-between;
+}
+
+.linksy-phrase-info-body > div .score {
+    width: 29px;
+    height: 29px;
+    display: flex;
+    flex-shrink: 0;
+    color: #FFFFFF;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    background-color: #CECECE;
+}
+
+/** linksy-phrase-settings */
+.linksy-phrase-settings {
+    padding-bottom: 20px;
+}
+
+.linksy-phrase-settings-body {
+    padding: 20px 15px;
+}
+
+.linksy-phrase-settings-body > div {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.linksy-phrase-settings-body > div input{
+    margin-top: 3px;
+    margin-right: 8px;
+}
+
+
+
+
+
+.linksy-phrase-card {
+    padding-right: 35px;
+    margin-bottom: 10px;
+}
+
+.linksy-phrase-card.active {
+    padding-right: 15px;
+    background: #FFFFFF;
+}
+
+.linksy-phrase-card.selected {
+    background: rgba(0,0,0,.05);
+}
+
+.linksy-phrase-card h4{
+    cursor: pointer;
+}
+
+.linksy-phrase-card.active h4{
+    margin-bottom: 5px;
+}
+
+.linksy-phrase-card h4 span{
+    width: 8px;
+    height: 8px;
+    margin-top: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+    background-color: whitesmoke;
+}
+
+.linksy-phrase-card.active h4 span{
+    width: 6px;
+    height: 6px;
+}
+
+.linksy-phrase-card .toggler {
+    top: 0;
+    right: 5px;
+    height: 100%;
+    display: flex;
+    position: absolute;
+    align-items: center;
+}
+
+.linksy-phrase-card.active .toggler {
+    display: none;
+}
+
+.linksy-phrase-card .toggler i{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.linksy-phrase-card .linksy-phrase-card-body {
+    max-height: 0;
+    overflow: hidden;
+    padding-left: 15px;
+    transition: max-height 0.15s ease-out;
+}
+
+.linksy-phrase-card.active .linksy-phrase-card-body {
+    max-height: 1000px;
+}
+
+.linksy-phrase-card.active .linksy-phrase-card-body .options {
+    padding-top: 1em;
+}
+
+.linksy-phrase-card .linksy-phrase-card-body .source {
+    color: #8a8a8a
+}
+
+.linksy-phrase-card .linksy-phrase-card-body .source mark {
+    display: inline-block;
+    background-color: transparent;
+    text-decoration: underline;
+    border: none;
+}
+
+.linksy-phrase-card .linksy-phrase-card-summary {
+    display: block;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    cursor: pointer;
+    margin-top: -8px;
+    padding-top: 8px;
+    padding-left: calc(12px + 5px);
+}
+
+.linksy-phrase-card.active .linksy-phrase-card-summary {
+    display: none;
+}
+
+.linksy-phrase-card .linksy-phrase-card-body .meta {
+    display: flex;
+}
+
+.linksy-phrase-card .linksy-phrase-card-body .meta button {
+    font-size: 12px;
+    padding-left: 0;
+    white-space: nowrap;
+    padding-right: 15px;
+}
+
+.linksy-phrase-card-item {
+    position: relative;
+    padding: 1px 0 5px;
+}
+
+.linksy-phrase-card-item:last-child {
+    padding-bottom: 10px;
+}
+
+.linksy-phrase-card-item.selected:after {
+    content: "";
+    position: absolute;
+    top: 5px;
+    width: 5px;
+    left: -15px;
+    height: calc(100% - 10px);
+    background-color: rgb(29,35,39);
+}
+
+.linksy-phrase-card-item h5{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    cursor: pointer;
+}
+
+.linksy-phrase-card-item small{
+    margin-top: -5px;
+    margin-bottom: 10px;
+    display: none;
+    color: #000000;
+}
+
+.linksy-phrase-card-item.used h5 {
+    color: rgba(130, 128, 128, 0.6);
+}
+
+.linksy-phrase-card-item.used small{
+    display: block;
+}
+
+.linksy-phrase-card-item.selected.used:only-child small{
+    display: none;
+}
+
+.linksy-phrase-card-item .bar {
+    width: 100%;
+    position: relative;
+    background: #D9E0E2;
+    border-radius: 500px;
+    height: fit-content;
+}
+
+.linksy-phrase-card-item .bar .bar-brogress {
+    z-index: 1;
+    height: 6px;
+    position: relative;
+    border-top-left-radius: 5000px;
+    border-bottom-left-radius: 5000px;
+}
+
+.linksy-phrase-card-item .bar .bar-label {
+    font-size: 9px;
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    top: calc(50% - 13px);
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linksy-phrase-card-item .linksy-dropdown {
+    background-color: transparent !important;
+}
+
+.linksy-phrase-card-item .linksy-dropdown .linksy-dropdown-items-container {
+    left: auto !important;
+    right: 0 !important;
+    top: calc(100% - 8px) !important;
+}
+
+.linksy-phrase-card-item:last-child .linksy-dropdown .linksy-dropdown-items-container {
+    top: calc(0% - 110px) !important;
+}
+
+.linksy-phrase-card-item .linksy-dropdown .linksy-dropdown-items-container span {
+    white-space: nowrap !important;
+}

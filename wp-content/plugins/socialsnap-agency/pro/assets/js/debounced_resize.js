@@ -1,0 +1,1 @@
+!function(e){jQuery.fn[e]=function(t){return t?this.on("resize",(i=t,function(){var t=this,e=arguments;u?clearTimeout(u):r&&i.apply(t,e),u=setTimeout(function(){r||i.apply(t,e),u=null},n||100)})):this.trigger(e);var i,n,r,u}}((jQuery,"ss_smartresize"));

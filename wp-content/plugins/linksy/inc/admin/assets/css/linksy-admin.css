@@ -1,0 +1,398 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+
+[v-cloak] { display:none !important }
+
+/**
+ * table
+ */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+a, a:hover, a:active {
+    color: rgb(0, 122, 255);
+}
+
+/**
+ * button
+ */
+button, a.button {
+    cursor: pointer;
+    padding: 8px 11px;
+    border-radius: 4px;
+    height: fit-content;
+    border: 1px solid transparent;
+    transition: .2s all linear;
+}
+button[disabled]{
+    cursor: not-allowed;
+}
+
+.btn-app {
+    color: #fff !important;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #007AFF !important;
+    background-color: #007AFF !important;
+}
+.btn-app:hover {
+    background-color: #0b5ed7 !important;
+    border-color: #0a58ca !important;
+}
+.btn-app:disabled {
+    color: #828080;
+    background: rgba(0, 122, 255, 0.2) !important;
+    border-color: rgba(0, 122, 255, 0.2) !important;
+}
+
+.btn-outline-app {
+    color: #007AFF !important;
+    border-color: #007AFF !important;
+    background-color: transparent !important;
+}
+.btn-outline-app:hover {
+    color: #FFF !important;
+    background-color: #007AFF !important;
+}
+
+.btn-default {
+    color: #000000 !important;
+    background-color: #EBEBEB !important;
+}
+.btn-default:hover {
+    background-color: #EBEBEB !important;
+    border-color: #EBEBEB !important;
+}
+
+.btn-outline-default {
+    border-color: #EBEBEB;
+    background-color: transparent;
+}
+.btn-outline-default:hover {
+    background-color: #EBEBEB;
+}
+
+.btn-clear {
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+.btn-link:hover {
+    color: blue;
+}
+
+
+
+.btn-small {
+    font-size: 12px;
+}
+
+/**
+ * small
+ */
+small{
+    color: #828080;
+}
+
+small.error {
+    color: #FF3C1F;
+}
+
+
+/**
+ * display
+ */
+
+
+/**
+ * utilities
+ */
+.clickable {
+    cursor: pointer;
+}
+
+.shadow {
+    box-shadow: 0px 0px 15px rgba(167, 165, 165, 0.15);
+}
+
+/**
+ * container
+ */
+.container,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+    padding-top: 20px;
+}
+
+.container .title-container {
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .title-container.left {
+    align-items: flex-start;
+}
+
+.container .title-container .title {
+    margin: 0;
+    font-size: 35px;
+    padding-top: 5px;
+    font-weight: 600;
+    line-height: 38px;
+    margin-bottom: 16px;
+}
+
+.container .title-container .sub-title {
+    font-size: 18px;
+}
+
+.daterangepicker.show-ranges {
+    z-index: 9999;
+}
+
+/**
+ * card
+ */
+.card {
+    padding: 0px;
+    max-width: 100%;
+    border-radius: 8px;
+    height: fit-content;
+    background-color: #fff;
+    border: 1px solid #DDDEE2;
+}
+
+.card .card-body {
+    padding: 1.25rem;
+}
+
+/**
+ * loader
+ */
+.loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loader i {
+    font-size: 24px;
+}
+
+/**
+ * switch control
+ */
+.switch-control {
+    position: relative;
+}
+
+.switch-control input[type=checkbox]{
+    height: 0;
+    width: 0;
+    position: absolute;
+    visibility: hidden;
+}
+  
+.switch-control label {
+    cursor: pointer;
+    text-indent: -9999px;
+    width: 36px;
+    height: 20px;
+    background: grey;
+    display: block;
+    border-radius: 20px;
+    position: relative;
+}
+  
+.switch-control label:after {
+    content: '';
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 12px;
+    height: 12px;
+    background: #fff;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+  
+.switch-control input:checked + label {
+    background: #007AFF;
+}
+  
+.switch-control input:checked + label:after {
+    left: calc(100% - 5px);
+    transform: translateX(-100%);
+}
+  
+.switch-control label:active:after {
+    width: 14px;
+}
+
+
+/** linksy-search */
+.linksy-search {
+    min-width: 315px;
+    background: #FFFFFF;
+}
+.linksy-search.cancelable {
+    padding-right: 10px;
+}
+.linksy-search.cancelable .cancelable-icon {
+    display: none;
+    cursor: pointer;
+}
+.linksy-search.cancelable:hover .cancelable-icon {
+    color: red;
+    display: inline-block;
+}
+
+
+/** linksy-dropdown */
+.linksy-dropdown {
+    min-width: 50px;
+    border-radius: 5px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.linksy-dropdown.disabled {
+    opacity: .4;
+}
+
+.linksy-dropdown.no-icon {
+    min-width: 20px;
+}
+
+.linksy-dropdown .linksy-dropdown-input {
+    width: 100%;
+    padding: 8px;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linksy-dropdown .linksy-dropdown-items-container {
+    left: 0;
+    z-index: 9;
+    min-width: 100%;
+    top: calc(100% - 45px);
+    padding: 5px 0px;
+    max-height: 300px;
+    position: absolute;
+    background: #FFFFFF;
+    overflow-y: scroll;
+    border-radius: 5px;
+    border: 1px solid #F0F0F0;
+}
+
+.linksy-dropdown .linksy-dropdown-items-container .item {
+    display: flex;
+    color: #3c434a;
+    cursor: pointer;
+    padding: 8px 10px;
+    white-space: nowrap;
+    align-items: flex-start;
+    border-bottom: 1px solid #FEFEFE;
+}
+
+.linksy-dropdown .linksy-dropdown-items-container .item.selected {
+    color: #000;
+    font-weight: 600;
+}
+
+.linksy-dropdown .linksy-dropdown-items-container .item:hover {
+    color: #007AFF;
+}
+
+/** linksy-pagination */
+
+
+.linksy-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.linksy-pagination.loading {
+    opacity: .3;
+    z-index: -1;
+}
+
+.linksy-pagination .length {
+    width: 60px;
+    height: 32px;
+    margin: 0 20px;
+    position: relative;
+    background: #FFFFFF;
+    border: 1px solid #E8E7E7;
+    border-radius: 20px;
+
+    padding-left: 10px;
+    padding-right: 6px;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linksy-pagination .length button {
+    width: 26px;
+    height: 26px;
+    color: #FFFFFF;
+    border: #5B5F6D;
+    border-radius: 50%;
+    background: #5B5F6D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linksy-pagination .length select {
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    opacity: 0;
+    z-index: 2;
+}
+
+.linksy-pagination .navs {
+    display: flex;
+    margin-left: 50px;
+}
+
+.linksy-pagination .navs button {
+    width: 34px;
+    height: 32px;
+    margin-left: 7px;
+    background: #FFFFFF;
+    border: 1px solid #E8E7E7;
+    border-radius: 10px;
+}

@@ -1,0 +1,195 @@
+mark {
+    color: white;
+    padding: 0 5px;
+    border-radius: 6px;
+    background-color: cornflowerblue;
+}
+
+.container {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 20px;
+}
+
+.container-title {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.tabbar {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: absolute;
+}
+
+.tabbar li {
+    display: block;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+    padding-right: 50px;
+}
+
+.tabbar li input{
+    margin-right: 20px;
+}
+
+.tab-content > div {
+    display: flex;
+}
+
+.tab-content .controller,
+.tab-content  .results {
+    height: fit-content;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #fff;
+    border: 1px solid #DDDEE2;
+    border-radius: 8px;
+    padding: 20px 30px;
+}
+
+.tab-content .controller {
+    width: 60%;
+    margin-bottom: 15px;
+    padding-top: 100px;
+}
+
+.tab-content .controller input, .tab-content .controller select {
+    border-radius: 20px;
+}
+
+.tab-content .controller .controller-actions {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+
+.tab-content .controller .controller-actions > div > span{
+    font-weight: 400;
+    font-size: 16px;
+    padding-right: 15px;
+}
+
+.tab-content .controller .controller-actions > div > button{
+    font-weight: 700;
+    font-size: 22px;
+    color: #34C759;
+    border-radius: 4px;
+    border: 1px solid #D6D6D6;
+}
+
+.tab-content .controller .controller-actions > div > button:disabled{
+    color: rgba(16, 16, 16, 0.1);
+}
+
+.tab-content  .results {
+    flex: 1;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    max-height: 650px;
+    overflow-y: scroll;
+}
+
+.tab-content  .results li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+    background: rgba(246, 245, 245, 0.5);
+    border: 1px solid #E8E8E8;
+    border-radius: 7px;
+    margin-top: 15px;
+}
+
+.tab-content  .results li .score {
+    width: 34px;
+    height: 34px;
+    margin-left: 15px;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+
+
+.tab-content #keyword-search .controller .searchbar {
+    border: 1px solid #5B5B5B;
+    border-radius: 30px !important;
+    width: 100% !important;
+}
+
+.tab-content #keyword-search.versus {
+    display: block;
+}
+
+.tab-content #keyword-search.versus .controller {
+    width: auto;
+}
+
+.tab-content #keyword-search.versus .controller .searchbar {
+    max-width: 500px;
+    border: 1px solid #5B5B5B;
+    border-radius: 30px !important;
+    width: 100% !important;
+}
+
+.tab-content #keyword-search.versus .results {
+    display: flex;
+    padding-top: 30px;
+    justify-content: space-around;
+}
+
+
+
+.tab-content #keyword-extractor {
+    display: flex;
+}
+
+.tab-content #keyword-extractor .results {
+    display: flex;
+    padding-top: 10px;
+    justify-content: space-between;
+}
+
+.tab-content #keyword-extractor .results li {
+    max-width: 420px;
+}
+
+.tab-content #keyword-extractor .results li p {
+    margin: 0;
+}
+
+
+
+.tab-content #keyword-relation .controller {
+    width: 70%;
+    display: flex;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.tab-content #keyword-relation .controller > form{
+    flex: 1;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tab-content #keyword-relation .controller .controller-widget {
+    padding: 10px;
+    width: 220px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 6px;
+    position: relative;
+}

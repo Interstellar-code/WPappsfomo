@@ -1,0 +1,43 @@
+.linksy-post-stats .cube,
+.linksy-keyword-rating .cube {
+    border-radius: 2px;
+    background: #F1F1F1;
+    display: inline-block;
+}
+
+.linksy-post-stats .linksy-post-stats-items {
+    font-size: 14px;
+}
+.linksy-post-stats .cube {
+    padding: 10px;
+    margin-right: 1em;
+}
+
+
+.linksy-keyword-rating .linksy-keyword-rating-items>div h5 {
+    font-size: 15px;
+    margin: 10px 0;
+}
+.linksy-keyword-rating .linksy-keyword-rating-items>div h5 span {
+    font-weight: 400;
+}
+.linksy-keyword-rating .cube {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    margin-bottom: -3px;
+}
+
+
+.linksy-domains .linksy-domains-items >div:last-child {
+    border-bottom: none !important;
+}
+.linksy-domains .linksy-domains-items >div span {
+    font-size: 15px;
+}
+.linksy-domains .linksy-domains-items >div h5 {
+    margin-top: 10px;
+    margin-bottom: 18px;
+    font-size: 15px;
+    font-weight: 400;
+}

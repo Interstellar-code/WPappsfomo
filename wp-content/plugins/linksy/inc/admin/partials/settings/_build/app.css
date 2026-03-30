@@ -1,0 +1,173 @@
+#wpwrap {
+    background-color: #f1f1f1;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {  
+   opacity: 1;
+}
+
+.tabbar {
+    display: flex;
+    padding-right: 30px;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #E2E1E1;
+}
+
+.tabbar h5 {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 22px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.tabbar li {
+    margin: 0 40px;
+}
+
+.tabbar li:first-child {
+    margin-left: 0;
+}
+
+.tabbar li:last-child {
+    margin-right: 0;
+}
+
+.tabbar li button {
+    border: none;
+    display: block;
+    font-size: 24px;
+    font-weight: 400;
+    padding-bottom: 15px;
+    background: transparent;
+}
+
+.tabbar li.active button {
+    border-bottom: 3px solid #007AFF;
+}
+
+.tab-content {
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-shadow: 0px 20px 25px rgba(0, 0, 0, 0.1), 0px 10px 10px rgba(0, 0, 0, 0.04);
+}
+
+#settings-app {
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 20px;
+}
+
+section {
+    position: relative;
+}
+
+.section-title {
+    font-weight: 600;
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #E2E1E1;
+}
+
+.section-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section .setting-card {
+    flex-shrink: 0;
+    flex-grow: 0;
+    min-height: 160px;
+    height: fit-content;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px 8px 15px;
+    width: calc(100%/3 - 40px);
+    border: 1px solid #F0F0F0;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.06);
+}
+
+section .setting-card .setting-card-header {
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+section .setting-card .setting-card-content {
+    min-height: 85px;
+    line-height: 26px;
+    color: #828080;
+}
+
+#licensing {
+    padding: 50px 20px;
+}
+
+#licensing section .section-content h3 {
+    margin: 0;
+}
+
+#licensing section .section-content .cube {
+    border-radius: 4px;
+    padding: 8px 11px; 
+    font-size: 18px;
+    color: #FB2000;
+    display: inline-block;
+    border: 1px solid rgba(251, 32, 0, 0.2);
+    background-color: rgba(251, 32, 0, 0.2);
+}
+
+#licensing section .section-content .cube.active {
+    color: #34C759;
+    border-color: rgba(52, 199, 89, 0.2);;
+    background-color: rgba(52, 199, 89, 0.2);
+}
+
+#licensing section .section-content input {
+    height: 44px;
+    min-width: 377px;
+}
+#licensing section .section-content input.invalid {
+    border-color: #FB2000 !important;
+    outline-color: rgba(52, 199, 89, 0.2) !important;
+}
+
+
+#posts .linksy-search {
+    min-width: auto;
+    background-color: whitesmoke;
+}
+
+#posts ul {
+    min-height: 200px;
+    max-height: 500px;
+    overflow-y: scroll;
+}
+
+#posts ul > li{
+    cursor: pointer;
+    padding: 15px 0 5px 0;
+    border-bottom: 1px solid whitesmoke;
+}
+
+#posts ul > li.active{
+    color:#007AFF;
+}
+
+#posts section .setting-card {
+    width: calc(100%/2 - 40px);
+}

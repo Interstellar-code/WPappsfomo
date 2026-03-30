@@ -1,0 +1,341 @@
+#wpwrap {
+    background-color: #f1f1f1;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {  
+   opacity: 1;
+}
+
+.search {
+    display: flex;
+    padding: 10px 25px;
+    border-radius: 2px;
+    align-items: center;
+    background-color: #E3E3E3;
+    justify-content: space-between;
+}
+
+.search .linksy-dropdown {
+    background: #FFFFFF;
+}
+
+.search .actions {
+    white-space: nowrap;
+}
+
+.search .actions>button,
+.search .actions>div>button {
+    font-size: 16px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: none;
+    margin: 0 10px;
+    height: 40px;
+    display: inline-block;
+}
+
+.search .actions .linksy-export button {
+    margin: 0;
+    font-size: 16px;
+    padding: 10px 0px;
+    border: none;
+    display: block;
+    background: transparent;
+}
+
+.tabbar {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-bottom: 1px solid #E2E1E1;
+}
+
+.tabbar li {
+    margin: 0 40px;
+}
+
+.tabbar li:first-child {
+    margin-left: 0;
+}
+
+.tabbar li:last-child {
+    margin-right: 0;
+}
+
+.tabbar li button {
+    border: none;
+    display: block;
+    font-size: 24px;
+    font-weight: 400;
+    padding-bottom: 20px;
+    background: transparent;
+}
+
+.tabbar li.active button {
+    border-bottom: 3px solid #007AFF;
+}
+
+.tab-content {
+    margin-top: 30px;
+}
+
+.filters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.filters>div{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.filters>div span {
+    font-size: 16px;
+    padding-bottom: 12px;
+}
+
+.filters>div select,
+.filters>div input,
+.filters>div .custom {
+    height: 44px;
+    min-width: 70px;
+    max-width: 150px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FFFFFF;
+}
+
+.filters>div select {
+    text-transform: capitalize;
+}
+
+.filters>div .linksy-dropdown {
+    height: 44px;
+    min-width: 92px !important;
+    background-color: #FFFFFF;
+}
+
+.filters>div select.invalid,
+.filters>div input.invalid {
+    background-color: rgba(255, 0, 0, .2);
+}
+
+.filters>div input:focus {
+    box-shadow: none;
+}
+
+.filters>div button {
+    height: 44px;
+    padding: 8px 18px;
+}
+
+.filters>div .custom {
+    padding: 0 10px;
+    display: flex;
+    height: 42px;
+    border: 1px solid transparent;
+    justify-content: space-between;
+}
+
+.filters>div .custom.invalid {
+    border-color: red;
+}
+
+.filters>div .custom.word-count {
+    max-width: 200px;
+}
+
+.filters>div .custom input{
+    height: auto;
+    min-width: 25px;
+    max-width: 50px;
+    padding: 8px 0;
+}
+
+.filters>div .custom.word-count input{
+    max-width: 75px;
+}
+
+/**
+ * internal-links-report
+ */
+
+#internal-links-report .report-title {
+    margin: -15px 0;
+    position: relative;
+}
+
+#internal-links-report .report-title .title {
+    font-size: 18px;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+
+#internal-links-report .report-title.expanded .title {
+    margin-bottom: 5px;
+    padding-bottom: 25px;
+}
+
+#internal-links-report .report-title .links {
+    bottom: -10px;
+    position: absolute;
+    display: none;
+    margin-left: -15px;
+    padding: 0 5px 4px 15px;
+    border-radius: 8px;
+    background-color: #f1f1f1;
+}
+
+#internal-links-report .report-title.expanded .links {
+    display: flex;
+    z-index: 99;
+}
+
+#internal-links-report .report-title .links .link {
+    font-weight: 500;
+    font-size: 14px;
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+#internal-links-report .report-title .links .link:not(:hover) {
+    color: #000000;
+}
+
+#internal-links-report .report-links .selector {
+    text-align: center;
+}
+
+#internal-links-report .report-links .selector span{
+    padding: 5px 25px;
+    background-color: transparent;
+}
+
+#internal-links-report .report-links.selectable .selector span{
+    cursor: pointer;
+}
+
+#internal-links-report .report-links.selectable .selector:hover span{
+    color: #007AFF;
+}
+
+#internal-links-report .report-links.selectable.active .selector span {
+    color: #FFFFFF;
+    background-color: #007AFF;
+}
+
+#internal-links-report .report-links.selectable.active .content {
+    margin-bottom: -20px;
+}
+
+#internal-links-report .report-links.selectable.active .content table {
+    left: 0;
+    right: 0;
+    margin-top: 35px;
+    position: absolute;
+    background: #FFFFFF;
+}
+
+#internal-links-report .report-links.selectable.active .content table thead {
+    color: #007AFF;
+    background: rgba(0, 122, 255, 0.2);
+}
+
+#internal-links-report .report-links.selectable.active .content table thead th {
+    font-size: 18px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#internal-links-report .report-links.selectable.active .content table tbody td {
+    font-size: 16px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#internal-links-report .report-links.selectable.active .content table tbody td:first-child,
+#internal-links-report .report-links.selectable.active .content table thead th:first-child {
+    text-align: left;
+}
+
+#internal-links-report .report-links.selectable.active .content table tbody td .content-title div {
+    opacity: 0;
+    margin-top: -10px;
+    padding-top: 3px;
+    margin-bottom: -10px;
+}
+#internal-links-report .report-links.selectable.active .content table tbody td .content-title:hover div {
+    opacity: 1;
+}
+#internal-links-report .report-links.selectable.active .content table tbody td .content-title div a{
+    font-size: 12px;
+    text-decoration: none;
+}
+
+
+/**
+ * domain-report
+ */
+#domain-report thead td {
+    background: #F9F9F9!important;
+}
+
+#domain-report thead td:last-child div {
+    display: block;
+    text-align: center;
+}
+
+#domain-report tbody td{
+    white-space: nowrap;
+    background: #FFFFFF;
+}
+
+#domain-report tbody td:last-child {
+    width: 750px;
+    max-width: 750px;
+}
+
+#domain-report .pages .post {
+    padding: 20px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    background: #F6F5F5;
+    border: 1px solid #E8E8E8;
+}
+
+#domain-report .pages .post.expanded h4 {
+    margin-top: 0;
+    margin-bottom: 27px;
+}
+
+#domain-report .pages .post.expanded:hover h4 {
+   margin-bottom: 0;
+}
+
+#domain-report .pages .post.expanded .post-links {
+    display: none;
+}
+
+#domain-report .pages .post.expanded:hover .post-links {
+    display: block;
+}
+
+#domain-report .pages .post.expanded .post-links a {
+    font-size: 14px;
+    margin-right: 8px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#domain-report .pages .post.expanded .post-links a:not(:hover) {
+    color: #000000;
+}
