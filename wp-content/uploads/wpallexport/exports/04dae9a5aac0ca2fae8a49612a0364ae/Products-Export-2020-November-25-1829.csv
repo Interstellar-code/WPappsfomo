@@ -1,0 +1,177 @@
+ID,Title,Brand,"Product Type",Sku,"Parent Product ID","Product Active Installations","Product Addons","Product Author","Product Ease of use","Product Founder","Product Last Updated","Product Licensing Type","Product Marketplace","Product Niche","Product Pricing options","Product Review Date","Product Site Usage","Product Support Duration","Product Support type","Product Team Size","Product Wordpress Compatibility"
+1336,SaaSmantra,"Software Deals Platform",external,,0,,,,,,,,,"Online Marketing",,02-07-2020,,,,7,
+2944,WonderPlugin,"Magic Hills Pty Ltd",external,,0,5000,None,"Magic Hills Pty Ltd",Easy,,"3 Months ago",GPL,"Own Site",,"Annual subscription",25-11-2020,"Single site","12 months",,Default,Latest
+2946,"Foo Gallery",,external,,0,1000000,Default,,Easy,,Default,Default,Default,,Free,Default,Default,Community-Free,,Default,Default
+2948,"NextGEN Gallery",,external,,0,16014678,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"12 months",,Default,Default
+2950,"Justified Image Grid",,external,,0,10000000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+2952,"Awesome Gallery",,external,,0,100000,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+2954,"Ultimate Membership Pro",,external,,0,5800,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+2958,"Restrict Content Pro",,external,,0,5000,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"12 months",,Default,Default
+2960,"SEO by Squirrly",,external,,0,2500000,Default,,Easy,,Default,Default,Default,,"Monthly payment",Default,Default,"6 months",,Default,Default
+2962,"User Pro",,external,,0,14889,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+2964,"Keyword Tool",,external,,0,4500000,Default,,Easy,,Default,Default,Default,,Free,Default,Default,"Life time",,Default,Default
+2966,"Visual Composer",,external,,0,238285,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+2968,Cornerstone,,external,,0,100000,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+2970,Divi,,external,,0,20000,Default,,Easy,,Default,Default,Default,,Free,Default,Default,Community-Free,,Default,Default
+2972,"Site Origin",,external,,0,200000,Default,,Easy,,Default,Default,Default,,Free,Default,Default,Community-Free,,Default,Default
+2974,"Beaver Builder",,external,,0,250000,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"12 months",,Default,Default
+2976,"Paid Membership Pro",,external,,0,2000000,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"Life time",,Default,Default
+2980,"AccessPress Anonymous Post Pro",,external,,0,3000000,Default,,Advanced,,Default,Default,Default,,"Monthly payment",Default,Default,"6 months",,Default,Default
+2982,SEMrush,,external,,0,1000000,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"12 months",,Default,Default
+2984,"S2 Member Pro",,external,,0,300000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"Life time",,Default,Default
+2990,Soliloquy,,external,,0,900000,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"12 months",,Default,Default
+2997,Superfly,,external,,0,2000000,Default,,Easy,,Default,Default,Default,,"Monthly payment",Default,Default,"6 months",,Default,Default
+2999,"Easy Social Share Button",,external,,0,18715,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3007,Bookly,,external,,0,11905,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3009,"Flow Flow",,external,,0,200000,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3011,Booki,,external,,0,1854,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3013,"Social Media Feather",,external,,0,200000,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3017,"Social share buttons - social pug",,external,,0,20000000,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"12 months",,Default,Default
+3019,Realtyna,,external,,0,2000000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"12 months",,Default,Default
+3023,Booked,,external,,0,200000,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3027,"Awesome Live Chat",,external,,0,389,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3029,"WP Simple Booking calendar",,external,,0,200000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"12 months",,Default,Default
+3031,"Chat X",,external,,0,3067,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3033,"Web 2.0 Directory",,external,,0,3967,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3035,EventOn,,external,,0,200000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3037,"Real Estate Pro",,external,,0,2000000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3041,"WP Express Popup",,external,,0,20000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3043,Estatik,,external,,0,13582,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"12 months",,Default,Default
+3045,"Easy Property Listing",,external,,0,82231,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"12 months",,Default,Default
+3047,"WordPress Live Chat Plugin",,external,,0,456456,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3049,"WP Flat Visual Chat",,external,,0,200000,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3051,Templatera,,external,,0,6988,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3053,"Interactive World Maps",,external,,0,9810,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3055,"WooCommerce Single Product Page Builder",,external,,0,3696,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3057,"Visual Composer Clipboard",,external,,0,20000,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3059,"Ultimate Addons for Visual Composer",,external,,0,100000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3061,"Visual Composer Extensions Addon",,external,,0,100000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3063,"4k Icon Fonts for Visual Composer",,external,,0,1263,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3065,"Ultimate Tweaker",,external,,0,939,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3071,"Visual Composer Extensions Addon All in One",,external,,0,200000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3073,"Easy Tables",,external,,0,20000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3075,Javo,,external,,0,4715,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3077,"Massive Addons for Visual Composer",,external,,0,20000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3079,"DHVC form",,external,,0,20000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3081,"Woocommerce Products Layouts",,external,,0,200000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3085,"Anti-spam Pro",,external,,0,20000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3087,"W3 Total Cache",,external,,0,20000,Default,,Easy,,Default,Default,Default,,Free,Default,Default,"12 months",,Default,Default
+3091,"Comet Cache",,external,,0,200000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"12 months",,Default,Default
+3093,"test img upload",,external,,0,,Default,,"Select ...",,Default,Default,Default,,"Select ...",Default,Default,"Select ...",,Default,Default
+3095,"Anti-spam Bee",,external,,0,100000,Default,,Easy,,Default,Default,Default,,Free,Default,Default,Community-Free,,Default,Default
+3097,WP-SpamShield,,external,,0,10000,Default,,Easy,,Default,Default,Default,,Free,Default,Default,"Life time",,Default,Default
+3099,CleanTalk,,external,,0,200000,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"12 months",,Default,Default
+3101,WPBruiser,,external,,0,100000,Default,,Easy,,Default,Default,Default,,Free,Default,Default,Community-Free,,Default,Default
+3103,"WP Cerber",,external,,0,200000000,Default,,Easy,,Default,Default,Default,,Free,Default,Default,Community-Free,,Default,Default
+3105,"WordPress, BuddyPress Users Chat Plugin",,external,,0,1000000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3107,"WooCommerce Amazon Affiliates",,external,,0,100000,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3109,"Table Rate Shipping",,external,,0,1000000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3111,Woof,,external,,0,100000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3113,"WooCommerce Extra Product Options",,external,,0,200000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3117,"WooCommerce Dynamic Pricing and Discounts",,external,,0,100000,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3119,"Hide My WP",,external,,0,20000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3121,"Testimonials Showcase",,external,,0,100000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3123,Reviewer,,external,,0,1000000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3125,"Let's Review",,external,,0,10000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3127,Taqyeem,,external,,0,10000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3129,"Rating Form",,external,,0,10000,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3131,"Sidebar Widget Manager",,external,,0,100000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3135,"Widget Ninja",,external,,0,1000000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3137,"Popping Sidebars and Widgets",,external,,0,200000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3139,"5sec Google Maps Pro",,external,,0,100000,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3141,"Responsive Google Maps",,external,,0,200000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3143,"Hero Maps Premium",,external,,0,100000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3145,"Interactive World Maps",,external,,0,100000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3147,UberMenu,,external,,0,100000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3149,"Hero Menu",,external,,0,10000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3151,"Ajax Translator Revolution",,external,,0,1000000,Default,,Advanced,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3153,"Smart Image Compressor",,external,,0,200000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3155,"The Grid",,external,,0,4268,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3157,"Instagram Feed",,external,,0,5353,Default,,~,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3159,"Elite Video Player",,external,,0,909,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3161,"Wordpress Automatic Plugin",,external,,0,7021,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3163,Scrapes,,external,,0,988,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3165,"Responsive flipbook",,external,,0,7769,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3167,"Ajax Search Pro",,external,,0,5739,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3169,"Go Pricing",,external,,0,8875,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3171,"Advanced Google Maps",,external,,0,6045,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3173,"Smart image compressor",,external,,0,140,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3175,Floatton,,external,,0,481,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3181,"WP Timeline",,external,,0,552,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3185,"White Label",,external,,0,404,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3187,"Essential Grid",,external,,0,25421,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3189,"Master Slider",,external,,0,16942,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3191,Kraken,,external,,0,20000000,Default,,~,,Default,Default,Default,,"Monthly payment",Default,Default,"6 months",,Default,Default
+3193,"Mega Menu",,external,,0,5976,Default,,Easy,,Default,Default,Default,,"Monthly payment",Default,Default,"6 months",,Default,Default
+3195,"WordPress Real Media Library",,external,,0,1000000,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3197,"Yellow Pencil",,external,,0,200000,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3199,"Uber Menu",,external,,0,66104,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3201,"Hero menu",,external,,0,3123,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3205,"Image map pro",,external,,0,4996,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3207,Mailster,,external,,0,15068,Default,,Easy,,Default,Default,Default,,~,Default,Default,"6 months",,Default,Default
+3209,Tube,,external,,0,245,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3211,"Agile store locator",,external,,0,637,Default,,Easy,,Default,Default,Default,,~,Default,Default,"6 months",,Default,Default
+3213,"Facebook Gallery",,external,,0,90,Default,,Easy,,Default,Default,Default,,~,Default,Default,"6 months",,Default,Default
+3215,"Album Stripes",,external,,0,61,Default,,~,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3217,Mycase,,external,,0,73,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3219,"PRI Portfolio",,external,,0,124,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3221,"Facbook Live Chat",,external,,0,73,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3223,"Google Analytics E-commerce",,external,,0,55,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3225,"Woo Commerce Recover Abandoned Art",,external,,0,2853,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3227,"Popup Container adobe muse widget",,external,,0,108,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3229,"Ultratabs Magento Extension",,external,,0,98,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3231,"Advanced FAQ Extension for Magento",,external,,0,147,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3233,Powerbanners,,external,,0,43,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3235,Wunderadmin,,external,,0,223,Default,,Easy,,Default,Default,Default,,~,Default,Default,"6 months",,Default,Default
+3237,"Magento Social Login",,external,,0,35,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3239,"Magneto installer/duplicator",,external,,0,46,Default,,Easy,,Default,Default,Default,,"One-time payment",Default,Default,"6 months",,Default,Default
+3241,"Newsletter popup for magneto",,external,,0,34,Default,,Easy,,Default,Default,Default,,"Annual subscription",Default,Default,"6 months",,Default,Default
+3243,"7 Helpful WordPress Affiliate Link Cloaker Plugins for Bloggers & Marketers",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3245,"10 Best Google Adsense WordPress Plugins of 2020 to Add Adsense Codes Easily",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3247,"13 Best WordPress PDF Viewer Plugins to Embed PDF Files in Your Website",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3249,"8 Best WordPress Project Management Plugins of 2020 (Free & Paid)",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3251,"11 Best WordPress Pinterest Plugins to Increase your Pins & Traffic in 2020",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3253,"15 Best WordPress Anti-Spam Plugins to Keep Your Website Safe & Secure",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3255,"The 8 Best WordPress Table & Chart Plugins for Better Data Visualization",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3257,"10 Best WordPress Instagram Plugins For Displaying Interactive Social Feeds",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3259,"The 9 Best Social Content Locker WordPress Plugins of 2020",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3261,"12 Best WordPress Backup Plugins of 2020 to Keep Your Data Safe",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3263,"The 9 Best WordPress Page Builder Plugins Compared | Reviewed in 2020",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3267,"The 9 Best WordPress Affiliate Plugins to Start Your Own Affiliate Program",,external,,0,,Default,,,,Default,Default,Default,,,Default,Default,,,Default,Default
+3303,Construct,,external,,0,216,Default,,Easy,,Default,Default,Default,Business,~,Default,Default,"6 months",,Default,Default
+3313,Eduma,,external,,0,6148,Default,,~,,Default,Default,Default,Education,~,Default,Default,"6 months",,Default,Default
+3315,Buzzler,,external,,0,1000,Default,,Easy,,Default,Default,Default,"Directory and listings",~,Default,Default,"12 months",,Default,Default
+3317,Listify,,external,,0,12000,Default,,Easy,,Default,Default,Default,"Directory and listings","One-time payment",Default,Default,"6 months",,Default,Default
+3319,Kleo,,external,,0,14000,Default,,Easy,,Default,Default,Default,Buddypress,"One-time payment",Default,Default,"6 months",,Default,Default
+3321,Consulting,,external,,0,5550,Default,,Easy,,Default,Default,Default,Finance,~,Default,Default,"6 months",,Default,Default
+3323,"WordPress Project Bidding : Sitemile",,external,,0,1000,Default,,~,,Default,Default,Default,"Project Bidding",~,Default,Default,"12 months",,Default,Default
+3329,Walleto,,external,,0,10000,Default,,~,,Default,Default,Default,"Market Place",~,Default,Default,"12 months",,Default,Default
+3331,Makery,,external,,0,1292,Default,,~,,Default,Default,Default,"Market Place",~,Default,Default,"6 months",,Default,Default
+3335,Listable,,external,,0,2745,Default,,Easy,,Default,Default,Default,"Directory and listings","One-time payment",Default,Default,"6 months",,Default,Default
+3337,Motors,,external,,0,2845,Default,,Easy,,Default,Default,Default,"Directory and listings","One-time payment",Default,Default,"6 months",,Default,Default
+3341,"WYZI- Business Finder",,external,,0,247,Default,,Easy,,Default,Default,Default,"Directory and listings",~,Default,Default,"6 months",,Default,Default
+3343,"Real Places",,external,,0,2432,Default,,Easy,,Default,Default,Default,"Real estate",~,Default,Default,"6 months",,Default,Default
+3345,ApartmentWP,,external,,0,243,Default,,Easy,,Default,Default,Default,"Real estate",~,Default,Default,"6 months",,Default,Default
+3347,"Full House",,external,,0,415,Default,,Easy,,Default,Default,Default,"Real estate",~,Default,Default,"6 months",,Default,Default
+3349,Residence,,external,,0,8662,Default,,~,,Default,Default,Default,"Real estate",~,Default,Default,"6 months",,Default,Default
+3353,"Real Homes",,external,,0,13660,Default,,Easy,,Default,Default,Default,"Real estate",~,Default,Default,"6 months",,Default,Default
+3357,Pronto,,external,,0,890,Default,,~,,Default,Default,Default,Restaurant,~,Default,Default,"6 months",,Default,Default
+3359,"Business Finder",,external,,0,5766,Default,,Easy,,Default,Default,Default,"Directory and listings",~,Default,Default,"6 months",,Default,Default
+3361,"Sweet Date",,external,,0,6669,Default,,Easy,,Default,Default,Default,Buddypress,~,Default,Default,"6 months",,Default,Default
+3363,Mingle,,external,,0,5669,Default,,Easy,,Default,Default,Default,Buddypress,~,Default,Default,"6 months",,Default,Default
+3367,Buddy,,external,,0,2323,Default,,Easy,,Default,Default,Default,Buddypress,~,Default,Default,"6 months",,Default,Default
+3369,Socialize,,external,,0,1710,Default,,Easy,,Default,Default,Default,Buddypress,~,Default,Default,"6 months",,Default,Default
+3375,Academy,,external,,0,5657,Default,,Easy,,Default,Default,Default,Education,~,Default,Default,"6 months",,Default,Default
+3381,Porto,,external,,0,10563,Default,,Easy,,Default,Default,Default,E-commerce,~,Default,Default,"6 months",,Default,Default
+3383,Blaszok,,external,,0,6273,Default,,Easy,,Default,Default,Default,E-commerce,~,Default,Default,"6 months",,Default,Default
+3385,Venedor,,external,,0,3203,Default,,Easy,,Default,Default,Default,E-commerce,~,Default,Default,"6 months",,Default,Default
+3387,Atelier,,external,,0,5418,Default,,Easy,,Default,Default,Default,E-commerce,~,Default,Default,"6 months",,Default,Default
+3395,"The Retailer",,external,,0,12817,Default,,Easy,,Default,Default,Default,E-commerce,~,Default,Default,"6 months",,Default,Default
+3397,"Job Career",,external,,0,2411,Default,,Easy,,Default,Default,Default,"Job Portal",~,Default,Default,"6 months",,Default,Default
+3401,Pekaboo,,external,,0,5533,Default,,Easy,,Default,Default,Default,Kindergarten,~,Default,Default,"6 months",,Default,Default
+3421,Universh,,external,,0,105,Default,,Easy,,Default,Default,Default,Education,,Default,Default,"6 months",,Default,Default
+3433,NRGNetwork,,external,,0,82,Default,,Easy,,Default,Default,Default,Buddypress,~,Default,Default,"6 months",,Default,Default
+3451,"Spa Lab",,external,,0,3502,Default,,Easy,,Default,Default,Default,Medical,~,Default,Default,"6 months",,Default,Default
+3461,"Nation Hotel",,external,,0,2506,Default,,Easy,,Default,Default,Default,Hotel,~,Default,Default,"6 months",,Default,Default
+3463,"Nice Hotel",,external,,0,3257,Default,,Easy,,Default,Default,Default,Hotel,"Annual subscription",Default,Default,"6 months",,Default,Default
+6266,"Security tool",,external,,0,,,,Firewall,,,,,,,,,,,,

@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[Cloudflare]]></name>
+		<id><![CDATA[6206]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.cloudflare.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://www.cloudflare.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/cloudflare/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2021]]></reviewdate>
+		<price><![CDATA[20]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Cloudflare Inc]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2009]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[No]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[N/A]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[9.6]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[BunnyCDN]]></name>
+		<id><![CDATA[6408]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[http://bunny.net/]]></externalurl>
+		<affiliatelink><![CDATA[http://bunny.net/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/bunnycdn/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2021]]></reviewdate>
+		<price><![CDATA[1]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[bunny.net]]></companyname>
+		<registeredcountry><![CDATA[Slovenia]]></registeredcountry>
+		<initialrelease><![CDATA[2015]]></initialrelease>
+		<pricingoptions><![CDATA[Pay as You Go]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[No]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[N/A]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.8]]></appsfomoratings>
+		<supporttype><![CDATA[Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Wordpress, CMS Websites, Cloud Storage providers]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Plutio]]></name>
+		<id><![CDATA[6537]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.plutio.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://www.plutio.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/plutio/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2021]]></reviewdate>
+		<price><![CDATA[19]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Plutio]]></companyname>
+		<registeredcountry><![CDATA[UK]]></registeredcountry>
+		<initialrelease><![CDATA[2018]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.6]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Integromat,Pably.PayPal, Project Cards, Stripe, Zapier]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Mailchimp]]></name>
+		<id><![CDATA[6645]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://mailchimp.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/cWPi/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/mailchimp/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2021]]></reviewdate>
+		<price><![CDATA[9]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Intuit Mailchimp]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2001]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[No]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[N/A]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[9.2]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[WooCommerce, shopify, Stripe]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[SendGrid]]></name>
+		<id><![CDATA[6938]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://sendgrid.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://sendgrid.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/sendgrid/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2021]]></reviewdate>
+		<price><![CDATA[19.95]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Twilio SendGrid]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2009]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[No]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[N/A]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.4]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Microsoft Azure, Google Cloud Platform, Amazon Web Services]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Ora]]></name>
+		<id><![CDATA[10059]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://ora.pm/]]></externalurl>
+		<affiliatelink><![CDATA[https://ora.pm/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/ora/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[Febraury 2021]]></reviewdate>
+		<price><![CDATA[10]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Ora.pm]]></companyname>
+		<registeredcountry><![CDATA[Bulgaria]]></registeredcountry>
+		<initialrelease><![CDATA[2015]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly,Onetime]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo,Other]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Slack]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android,IOS,Linux]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Glorify]]></name>
+		<id><![CDATA[10060]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.glorifyapp.com/pricing/]]></externalurl>
+		<affiliatelink><![CDATA[https://www.glorifyapp.com/pricing/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/glorify/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[Febraury 2021]]></reviewdate>
+		<price><![CDATA[29.99]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Glorify]]></companyname>
+		<registeredcountry><![CDATA[UK]]></registeredcountry>
+		<initialrelease><![CDATA[2019]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo,Other]]></ltdplatform>
+		<moneybackguarantee><![CDATA[30 Days]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.8]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Stock Libraries, Template bundle]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Trello]]></name>
+		<id><![CDATA[10061]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://trello.com/home]]></externalurl>
+		<affiliatelink><![CDATA[https://trello.com/home]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/trello/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[Febraury 2021]]></reviewdate>
+		<price><![CDATA[5]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Trello]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2011]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[No]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[N/A]]></ltdplatform>
+		<moneybackguarantee><![CDATA[60 Days]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.6]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Slack, Jira cloud, Miro, zapier]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Crello]]></name>
+		<id><![CDATA[10062]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://crello.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://crello.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/crello/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[Febraury 2021]]></reviewdate>
+		<price><![CDATA[10]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[VistaCreate]]></companyname>
+		<registeredcountry><![CDATA[Cyprus]]></registeredcountry>
+		<initialrelease><![CDATA[2017]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[9.2]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Adobe XD, Jira, Slack]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android,IOS,Linux]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[SpinRewriter]]></name>
+		<id><![CDATA[10216]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.spinrewriter.com/?ref=27ce3]]></externalurl>
+		<affiliatelink><![CDATA[https://www.spinrewriter.com/?ref=27ce3]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/spinrewriter/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[March 2021]]></reviewdate>
+		<price><![CDATA[47]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Infinect LLC]]></companyname>
+		<registeredcountry><![CDATA[Europe]]></registeredcountry>
+		<initialrelease><![CDATA[2011]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly,Onetime]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Other]]></ltdplatform>
+		<moneybackguarantee><![CDATA[30 Days]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.6]]></appsfomoratings>
+		<supporttype><![CDATA[Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Wordpress plugin]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[TexAu]]></name>
+		<id><![CDATA[10260]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://texau.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://texau.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/texau/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[March 2021]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[TexAu]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2020]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.4]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Zapier]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[RelayThat]]></name>
+		<id><![CDATA[10402]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.relaythat.com/pricing]]></externalurl>
+		<affiliatelink><![CDATA[https://www.dealify.com/relaythat/?deal=stellar]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/relaythat/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[March 2021]]></reviewdate>
+		<price><![CDATA[15]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[RelayThat]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2016]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Not Available]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[9.1]]></appsfomoratings>
+		<supporttype><![CDATA[Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Stock images]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[User Back]]></name>
+		<id><![CDATA[11413]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.userback.io/pricing]]></externalurl>
+		<affiliatelink><![CDATA[https://www.userback.io/pricing]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/user-back/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[April 2021]]></reviewdate>
+		<price><![CDATA[79]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Userback]]></companyname>
+		<registeredcountry><![CDATA[Australia]]></registeredcountry>
+		<initialrelease><![CDATA[2016]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.6]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Wordpress plugin, Zapier]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Grammarly]]></name>
+		<id><![CDATA[13015]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.grammarly.com/premium]]></externalurl>
+		<affiliatelink><![CDATA[https://www.grammarly.com/premium]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/grammarly/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[May 2021]]></reviewdate>
+		<price><![CDATA[12]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Grammarly]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2009]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Other]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[9]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Excel, Power point, Skype, Slack, Word]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[ArticleForge]]></name>
+		<id><![CDATA[13461]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.articleforge.com]]></externalurl>
+		<affiliatelink><![CDATA[https://www.articleforge.com/?ref=021ce2]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/articleforge/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[May 2021]]></reviewdate>
+		<price><![CDATA[27]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Glimpse.ai]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2009]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Not Available]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Other]]></ltdplatform>
+		<moneybackguarantee><![CDATA[30 Days]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.6]]></appsfomoratings>
+		<supporttype><![CDATA[Email]]></supporttype>
+		<integrations><![CDATA[Wordpress plugin]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[LiveWebinar]]></name>
+		<id><![CDATA[15653]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://app.livewebinar.com/pricing]]></externalurl>
+		<affiliatelink><![CDATA[https://app.livewebinar.com/pricing]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/livewebinar/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[June 2021]]></reviewdate>
+		<price><![CDATA[17.99]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[LiveWebinar]]></companyname>
+		<registeredcountry><![CDATA[Poland]]></registeredcountry>
+		<initialrelease><![CDATA[2016]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.8]]></appsfomoratings>
+		<supporttype><![CDATA[Email]]></supporttype>
+		<integrations><![CDATA[Hubspot, Mailchimp, Senfox, Zapier]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Weje]]></name>
+		<id><![CDATA[18413]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://appsfomo.com/weje/]]></externalurl>
+		<affiliatelink><![CDATA[https://appsfomo.com/weje/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/weje/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[September 2021]]></reviewdate>
+		<price><![CDATA[10]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[HyperTech Inc]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2021]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Dealify]]></ltdplatform>
+		<moneybackguarantee><![CDATA[30 Days]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.8]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Google Docs, AirTable, Figma,Miro documents]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Quillbot]]></name>
+		<id><![CDATA[20584]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://quillbot.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://quillbot.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/quillbot/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[August 2022]]></reviewdate>
+		<price><![CDATA[4]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Quillbot]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2017]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Other]]></ltdplatform>
+		<moneybackguarantee><![CDATA[30 Days]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.8]]></appsfomoratings>
+		<supporttype><![CDATA[Email]]></supporttype>
+		<integrations><![CDATA[Chrome, word, Linkedin, Gmail]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Crove.app]]></name>
+		<id><![CDATA[21191]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://crove.app/]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/3EQ3/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/crove-app/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[August 2022]]></reviewdate>
+		<price><![CDATA[9]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Crove.app]]></companyname>
+		<registeredcountry><![CDATA[India]]></registeredcountry>
+		<initialrelease><![CDATA[2020]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[30 Days]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Zapier, Pabbly, Hubspot, Slack]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Chugzi]]></name>
+		<id><![CDATA[21211]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.chugzi.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/hZLz/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/chugzi/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[August 2022]]></reviewdate>
+		<price><![CDATA[97]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Chugzi™]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2020]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly,Onetime]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[7.4]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[N/A]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Usetiful]]></name>
+		<id><![CDATA[21491]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.usetiful.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://www.usetiful.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/usetiful/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[September 2022]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Dobbytec]]></companyname>
+		<registeredcountry><![CDATA[Estonia]]></registeredcountry>
+		<initialrelease><![CDATA[2019]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[7.8]]></appsfomoratings>
+		<supporttype><![CDATA[Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[N/A]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[RemasterMedia]]></name>
+		<id><![CDATA[21673]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.remastermedia.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://www.remastermedia.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/remastermedia/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[October 2022]]></reviewdate>
+		<price><![CDATA[6.5]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[RemasterMedia]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2019]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly,Pay as You Go]]></pricingoptions>
+		<freeversion><![CDATA[Not Available]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Other]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[7]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Web, Mobile, Other apps]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Biteplay]]></name>
+		<id><![CDATA[21689]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://biteplay.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://biteplay.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/biteplay/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[October 2022]]></reviewdate>
+		<price><![CDATA[99]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Biteplay]]></companyname>
+		<registeredcountry><![CDATA[Brazil]]></registeredcountry>
+		<initialrelease><![CDATA[2019]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[14 Days]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[7.4]]></appsfomoratings>
+		<supporttype><![CDATA[Email]]></supporttype>
+		<integrations><![CDATA[Google Ads, SwipeTube Chrome extension by VidTao, Youtbe]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[GummySearch]]></name>
+		<id><![CDATA[21763]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://gummysearch.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://gummysearch.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/gummysearch/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[September 2022]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[GummySearch]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2021]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[No]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[N/A]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[7]]></appsfomoratings>
+		<supporttype><![CDATA[Email]]></supporttype>
+		<integrations><![CDATA[N/A]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[ContentBot]]></name>
+		<id><![CDATA[22024]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://contentbot.ai/]]></externalurl>
+		<affiliatelink><![CDATA[https://contentbot.ai/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/contentbot/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[October 2022]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[ContentBot.ai]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2021]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Pay as You Go]]></pricingoptions>
+		<freeversion><![CDATA[Not Available]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.2]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[N/A]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[TrueRanker]]></name>
+		<id><![CDATA[22130]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://trueranker.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://trueranker.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/trueranker/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[October 2022]]></reviewdate>
+		<price><![CDATA[6.99]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[TrueRanker]]></companyname>
+		<registeredcountry><![CDATA[Spain]]></registeredcountry>
+		<initialrelease><![CDATA[2019]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[Available]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.5]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Chrome, Wordpress]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[NeuronWriter]]></name>
+		<id><![CDATA[22217]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://neuronwriter.com/#process]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/71yK/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/neuronwriter/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2022]]></reviewdate>
+		<price><![CDATA[19]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[CONTADO]]></companyname>
+		<registeredcountry><![CDATA[Poland]]></registeredcountry>
+		<initialrelease><![CDATA[2019]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Not Available]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Google Search Console]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Vepaar]]></name>
+		<id><![CDATA[22248]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://vepaar.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://vepaar.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/vepaar/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[October 2022]]></reviewdate>
+		<price><![CDATA[5]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Vepaar]]></companyname>
+		<registeredcountry><![CDATA[India]]></registeredcountry>
+		<initialrelease><![CDATA[2015]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[7.5]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Stripe,Salesforce, Whatsapp, Chrome]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android,Linux]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Scalenut]]></name>
+		<id><![CDATA[22264]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.scalenut.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://www.scalenut.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/scalenut/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[October 2022]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Scalenut]]></companyname>
+		<registeredcountry><![CDATA[India]]></registeredcountry>
+		<initialrelease><![CDATA[2020]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Pitchground]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Wordpress, Semrush, Copyscape]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Prelo]]></name>
+		<id><![CDATA[22281]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.prelo.io/]]></externalurl>
+		<affiliatelink><![CDATA[https://www.prelo.io/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/prelo/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[October 2022]]></reviewdate>
+		<price><![CDATA[23]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Prelo]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2021]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8]]></appsfomoratings>
+		<supporttype><![CDATA[Ticketing]]></supporttype>
+		<integrations><![CDATA[CRM]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[SheerSEO]]></name>
+		<id><![CDATA[22336]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.sheerseo.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://www.sheerseo.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/sheerseo/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2022]]></reviewdate>
+		<price><![CDATA[10]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[SheerSEO]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2007]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[7]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[XML, Facebook, Twitter, Majestic, Google Search Console,Google Keyword Planner]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Wordplay ]]></name>
+		<id><![CDATA[22376]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://wordplay.ai/]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/OKk0/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/wordplay/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2022]]></reviewdate>
+		<price><![CDATA[35]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Wordplay.ai]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2022]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[7 Days]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[7.3]]></appsfomoratings>
+		<supporttype><![CDATA[Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Chrome, Google, WordPress]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Linux]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Microsoft Power Automate]]></name>
+		<id><![CDATA[22432]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://powerautomate.microsoft.com/en-us/]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/kznH/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/microsoft-power-automate/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2022]]></reviewdate>
+		<price><![CDATA[15]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Microsoft Power Automate]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2021]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Pay as You Go]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[No]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[N/A]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Microsoft Office 365, GoogleDrive, SAP ERP, Salesforce]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[useArtemis]]></name>
+		<id><![CDATA[22458]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://useartemis.co/]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/EyIf/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/reviews/useartemis/]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[November 2022]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[useArtemis]]></companyname>
+		<registeredcountry><![CDATA[France]]></registeredcountry>
+		<initialrelease><![CDATA[2022]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Not Available]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Linkedin ,Chrome]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[BackupSheep]]></name>
+		<id><![CDATA[22518]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://backupsheep.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://backupsheep.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/?post_type=product&p=22518]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[December 2022]]></reviewdate>
+		<price><![CDATA[10]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[BackupSheep]]></companyname>
+		<registeredcountry><![CDATA[Canada]]></registeredcountry>
+		<initialrelease><![CDATA[2017]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[7.7]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Amazon S3, Google Drive, Onedrive, Dropbox]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Dukaan]]></name>
+		<id><![CDATA[22564]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://mydukaan.io/]]></externalurl>
+		<affiliatelink><![CDATA[shop.appsfomo.com/p/7Kke/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/?post_type=product&p=22564]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[December 2022]]></reviewdate>
+		<price><![CDATA[4.62]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Dukaan]]></companyname>
+		<registeredcountry><![CDATA[India]]></registeredcountry>
+		<initialrelease><![CDATA[2020]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.4]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Facebook pixel, Intercom, Stripe, Payal, Google Adwords]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Heartbeat]]></name>
+		<id><![CDATA[22606]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.heartbeat.chat/]]></externalurl>
+		<affiliatelink><![CDATA[https://www.heartbeat.chat/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/?post_type=product&p=22606]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[December 2022]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Heartbeat Chat Inc]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2020]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[6.4]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing]]></supporttype>
+		<integrations><![CDATA[Notion, Stripe, Zapier, zoom, Google Calender]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows,Android,IOS]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[Grab Your Reviews]]></name>
+		<id><![CDATA[22670]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://grabyourreviews.com/]]></externalurl>
+		<affiliatelink><![CDATA[https://grabyourreviews.com/]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/?post_type=product&p=22670]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[December 2022]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Grab Your Reviews]]></companyname>
+		<registeredcountry><![CDATA[India]]></registeredcountry>
+		<initialrelease><![CDATA[2020]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.2]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing,Phone Call]]></supporttype>
+		<integrations><![CDATA[Zapier]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[WP Force SSL]]></name>
+		<id><![CDATA[22670]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/lKLc/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/?post_type=product&p=22670]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[December 2022]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[Grab Your Reviews]]></companyname>
+		<registeredcountry><![CDATA[India]]></registeredcountry>
+		<initialrelease><![CDATA[2020]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy,Yearly]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[8.2]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email,Ticketing,Phone Call]]></supporttype>
+		<integrations><![CDATA[Zapier]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Android]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[LeadRocks]]></name>
+		<id><![CDATA[23000]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://leadrocks.io/]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/nCwY/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/?post_type=product&p=23000]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[December 2022]]></reviewdate>
+		<price><![CDATA[29]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[LeadRocks]]></companyname>
+		<registeredcountry><![CDATA[Cyprus]]></registeredcountry>
+		<initialrelease><![CDATA[2022]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Tier]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[6.6]]></appsfomoratings>
+		<supporttype><![CDATA[Live Chat,Email]]></supporttype>
+		<integrations><![CDATA[Chrome, Linkedin ]]></integrations>
+		<supporteddevice><![CDATA[Web Based,Windows]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+	<node>
+		<name><![CDATA[pxl.to]]></name>
+		<id><![CDATA[23042]]></id>
+		<type><![CDATA[external]]></type>
+		<sku><![CDATA[]]></sku>
+		<externalurl><![CDATA[https://www.pxl.to/]]></externalurl>
+		<affiliatelink><![CDATA[https://shop.appsfomo.com/p/u5aq/r]]></affiliatelink>
+		<articleurl><![CDATA[https://appsfomo.com/?post_type=product&p=23042]]></articleurl>
+		<buttontext><![CDATA[Sign Up Today]]></buttontext>
+		<featured><![CDATA[Done]]></featured>
+		<contentstructure><![CDATA[Done]]></contentstructure>
+		<uniquefeature><![CDATA[]]></uniquefeature>
+		<reviewdate><![CDATA[December 2022]]></reviewdate>
+		<price><![CDATA[30]]></price>
+		<pricesuffixmonthoryear><![CDATA[/Month]]></pricesuffixmonthoryear>
+		<companyname><![CDATA[pxl.to]]></companyname>
+		<registeredcountry><![CDATA[USA]]></registeredcountry>
+		<initialrelease><![CDATA[2022]]></initialrelease>
+		<pricingoptions><![CDATA[Montlhy]]></pricingoptions>
+		<freeversion><![CDATA[Free Trial]]></freeversion>
+		<lifetimedealoffered><![CDATA[Yes]]></lifetimedealoffered>
+		<ltdplatform><![CDATA[Appsumo]]></ltdplatform>
+		<moneybackguarantee><![CDATA[N/A]]></moneybackguarantee>
+		<appsfomoratings><![CDATA[6]]></appsfomoratings>
+		<supporttype><![CDATA[Email]]></supporttype>
+		<integrations><![CDATA[Facebook pixel, Linkedin, Google Adwords, Google Analytics]]></integrations>
+		<supporteddevice><![CDATA[Web Based]]></supporteddevice>
+		<mobileapp><![CDATA[Not Available]]></mobileapp>
+	</node>
+</data>

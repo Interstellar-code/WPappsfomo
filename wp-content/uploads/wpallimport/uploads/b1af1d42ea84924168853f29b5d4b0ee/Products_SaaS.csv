@@ -1,0 +1,40 @@
+ID,Title,Sku,Post Type,Product Type,Parent Product ID,Regular Price,Sale Price,Product categories,Sub Category,Brand
+6206,Cloudflare,,product,external,0,20,,SaaS,Hosting & Cloud Services,
+6408,BunnyCDN,,product,external,0,10,,SaaS,Hosting & Cloud Services,
+6537,Plutio,,product,external,0,15,,SaaS,Project Management,
+6645,Mailchimp,,product,external,0,9.99,,SaaS,Marketing and Sales,Mailchimp
+6938,SendGrid,,product,external,0,14.95,,SaaS,Marketing and Sales,SendGrid
+10059,Ora,,product,external,0,6,4.33,SaaS,Project Management,
+10060,Glorify,,product,external,0,12.99,,SaaS,Design &amp; Collaboration,
+10061,Trello,,product,external,0,9.99,,SaaS,Project Management,
+10062,Crello,,product,external,0,9.99,,SaaS,Design &amp; Collaboration,
+10216,SpinRewriter,,product,external,0,47,,SaaS,Content creation,Infinect LLC
+10260,TexAu,,product,external,0,12.99,,SaaS,Business Tools,TexAu
+10402,RelayThat,,product,external,0,25,,SaaS,Design &amp; Collaboration,RelayThat
+11413,User Back,,product,external,0,8,,SaaS,Business Tools,RelayThat
+13015,Grammarly,,product,external,0,11.66,,SaaS,Content creation,
+13461,ArticleForge,,product,external,0,57,,SaaS,Content creation,
+15653,LiveWebinar,,product,external,0,11.99,,SaaS,Communication,RelayThat
+18413,Weje,,product,external,0,4,,SaaS,Communication,RelayThat
+20584,Quillbot,,product,external,0,4,,SaaS,Content creation,Quillbot
+21191,Crove.app,,product,external,0,9,,SaaS,Business Tools,Crove.app
+21211,Chugzi,,product,external,0,97,,SaaS,Content creation,Chugzi™
+21491,Usetiful,,product,external,0,29,,SaaS,Communication,Usetiful
+21673,RemasterMedia,,product,external,0,6.5,,SaaS,"Audio, Video & Media",RemasterMedia
+21689,Biteplay,,product,external,0,99,,SaaS,"Audio, Video & Media",Biteplay
+21763,GummySearch,,product,external,0,15.75,,SaaS,Business Tools,GummySearch
+22024,ContentBot,,product,external,0,29,,SaaS,Content creation,ContentBot
+22130,TrueRanker,,product,external,0,6.99,,SaaS,Marketing and Sales,TrueRanker
+22217,NeuronWriter,,product,external,0,19,,SaaS,Content creation,NeuronWriter
+22248,Vepaar,,product,external,0,5,,SaaS,Business Tools,Vepaar
+22264,Scalenut,,product,external,0,29,,SaaS,Content creation,Scalenut
+22281,Prelo,,product,external,0,23,,SaaS,Business Tools,Prelo
+22336,SheerSEO,,product,external,0,10,,SaaS,Marketing and Sales,SheerSEO
+22376,Wordplay ,,product,external,0,59,,SaaS,Content creation,Wordplay
+22432,Microsoft Power Automate,,product,external,0,15,,SaaS,Automation and Data,Microsoft Power Automate
+22458,useArtemis,,product,external,0,29,,SaaS,Business Tools,useArtemis
+22491,Bit Integrations,,product,external,0,19,,SaaS,Automation and Data,Bit Integrations
+22518,BackupSheep,,product,external,0,10,,SaaS,Hosting & Cloud Services,BackupSheep
+22564,Dukaan,,product,external,0,4.62,,SaaS,Business Tools,Dukaan
+22606,Heartbeat,,product,external,0,29,,SaaS,Communication,Heartbeat
+22670,Grab Your Reviews,,product,external,0,59,,SaaS,Marketing and Sales,Wordplay

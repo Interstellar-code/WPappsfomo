@@ -1,0 +1,114 @@
+.elementor-15361 .elementor-element.elementor-element-310a026 > .elementor-widget-container{padding:40px 0px 0px 0px;}.elementor-15361 .elementor-element.elementor-element-310a026{text-align:center;}.elementor-15361 .elementor-element.elementor-element-4d6865b8 > .elementor-container{max-width:780px;min-height:100vh;}.elementor-15361 .elementor-element.elementor-element-4d6865b8{padding:50px 0px 150px 0px;}.elementor-15361 .elementor-element.elementor-element-4e4dcbd5:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-15361 .elementor-element.elementor-element-4e4dcbd5 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-15361 .elementor-element.elementor-element-4e4dcbd5 > .elementor-element-populated, .elementor-15361 .elementor-element.elementor-element-4e4dcbd5 > .elementor-element-populated > .elementor-background-overlay, .elementor-15361 .elementor-element.elementor-element-4e4dcbd5 > .elementor-background-slideshow{border-radius:3px 3px 3px 3px;}.elementor-15361 .elementor-element.elementor-element-4e4dcbd5 > .elementor-element-populated{box-shadow:0px 0px 59px -28px rgba(0, 0, 0, 0.1);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:40px 40px 40px 40px;}.elementor-15361 .elementor-element.elementor-element-4e4dcbd5 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}/* Start custom CSS for text-editor, class: .elementor-element-957b445 */.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-form-field{
+    background: #FCFDFF;
+    border: 1px solid #B5C8FF;
+    border-radius: 4px
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-form-field:hover{
+    border-color: #1283FF
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-form-field:focus{
+    border: 1px solid transparent;
+    outline: 3px solid #B5C8FF;
+}
+
+
+.elementor-15361 .elementor-element.elementor-element-957b445 label.wpfepp-form-field-label{
+    font-weight: normal;
+    font-size: 14px;
+    
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-form-field-container{
+    margin-bottom: 20px
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .elementor-tab-content{
+    padding: 40px
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wp-editor-tabs{
+    display: none;
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 #insert-media-button {
+    font-family: inherit;
+    color: inherit;
+    border-radius: 4px;
+    padding: 8px 20px; 
+    margin-bottom: 10px;
+    background: #f7f7f7;
+    border: 1px solid #B5C8FF;
+}
+
+.mce-container * {
+    background: white;
+}
+
+.wpfepp-form .wpfepp-form-field-container .wp-editor-container{
+    border: 1px solid  #1283FF
+}
+
+#mceu_10, #mceu_11, #mceu_12{
+    display: none;
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-thumbnail-field{
+    background: inherit;
+    border-style: dashed;
+    border-color: inherit
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-thumbnail-link{
+    color: transparent;
+    position: relative;
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-thumbnail-link::before{
+    content: "Upload";
+    color: initial;
+    display: inline-block;
+    
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translateY(-50%);
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-thumbnail-field{
+    padding: 7px 20px;
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-button.blue{
+    padding: 16px 50px;
+    background: #0097ef;
+    color: white;
+    border: none;
+    font-family: inherit;
+    text-shadow: none;
+    font-weight: 600;
+}
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-save-button{
+    padding: 15px 50px;
+    background: #FCFDFF;
+    color: #1283FF;
+    border: 1px solid #1283FF88;
+    margin-left: 20px;
+    font-family: inherit;
+    text-shadow: none;
+    font-weight: 600;
+    box-shadow: none;
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-prefix-text{
+    font-size: 12px;
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .wpfepp-prefix-text a{
+   color: #0097EF
+}
+
+.elementor-15361 .elementor-element.elementor-element-957b445 .select2-container {
+    width: 100% !important;
+}/* End custom CSS */
