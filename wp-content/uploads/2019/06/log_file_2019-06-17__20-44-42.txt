@@ -1,0 +1,97 @@
+
+---Downloaded files---
+The import files for: ReWise were successfully downloaded!
+Initial max execution time = 40
+Files info:
+Site URL = https://re-views.tech
+Data file = /home/reviewadmin/public_html/wp-content/uploads/2019/06/demo-content-import-file_2019-06-17__20-44-42.xml
+Widget file = /home/reviewadmin/public_html/wp-content/uploads/2019/06/demo-widgets-import-file_2019-06-17__20-44-42.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Area : 
+
+ReHub: Better menu - Quick menu - Imported
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Text - About Rewise - Imported
+ReHub: Social icons - No Title - Imported
+
+Footer 2 : 
+
+Text - No Title - Imported
+
+Footer 3 : 
+
+Text - Sign Up for Weekly Newsletter - Imported
+
+Affiliate store archive sidebar : 
+
+Custom HTML - Similar shops - Imported
+ReHub: Top Offers/Products - Latest Coupons - Imported
+Text - No Title - Imported
+
+Woocommerce shop sidebar : 
+
+Filter Products by Price - Filter Products - Imported
+Filter Products by Attribute - Effective Pixels (MP) - Imported
+Filter Products by Attribute - Image Sensor Size - Imported
+Filter Products by Attribute - Internal Storage (GB) - Imported
+Filter Products by Attribute - ISO Rating - Imported
+Filter Products by Attribute - Primary Camera - Imported
+Filter Products by Attribute - Shutter Speed - Imported
+Filter Products by Attribute - SIM Type - Imported
+Filter Products by Attribute - Video Resolution - Imported
+Filter Products by Rating - Average rating - Imported
+
+Woocommerce product sidebar : 
+
+CE: Price Movers - Price Drops - Imported
+
+sidebar-7 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - Sign Up for Weekly Newsletter - Imported to Inactive
+
+
+
+---pt-ocdi/after_import---
+Theme Options was updated-------Menu was assigned-------HomePage was assigned-------
